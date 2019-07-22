@@ -1,0 +1,1001 @@
+_Id,Forename,Surname,Address,Town,County,Year_Born,Gender,Commitment,Weakness,Height,Weight
+5cc8ed61fc13ae3b0f000000,Halli,Wark,4506 Nancy Place,Toledo,Ohio,2003,Female,Fair,Turning,162.51,67.43
+5cc8ed61fc13ae3b0f000001,Eldredge,Ivanikhin,47062 Heffernan Circle,Harrisburg,Pennsylvania,1991,Male,Good,Turning,212.6,46.94
+5cc8ed61fc13ae3b0f000002,Tamas,Swatman,57565 Dakota Alley,Garden Grove,California,1991,Male,Excellent,Turning,208.21,82.65
+5cc8ed61fc13ae3b0f000003,Bennett,Loble,15 Bobwhite Drive,Billings,Montana,1982,Male,Excellent,Use of Feet,161.36,59.08
+5cc8ed61fc13ae3b0f000004,Ambrose,Dict,63 Scott Point,San Diego,California,1991,Male,Excellent,Use of Feet,186.28,47.33
+5cc8ed61fc13ae3b0f000005,Marcela,MacVaugh,2 Buhler Way,Winter Haven,Florida,2007,Female,Fair,Breathing,136.04,72.7
+5cc8ed61fc13ae3b0f000006,Caro,Emloch,9 Farwell Street,Clearwater,Florida,1981,Female,Excellent,Use of Feet,201.7,42.99
+5cc8ed61fc13ae3b0f000007,Teodorico,Bloss,0 Lukken Terrace,Chico,California,1990,Male,Good,Breathing,161.61,80.3
+5cc8ed61fc13ae3b0f000008,Tudor,Piwall,9 Kennedy Crossing,Seattle,Washington,1990,Male,Fair,Breathing,126.4,72.11
+5cc8ed61fc13ae3b0f000009,Clair,Macken,02 Green Ridge Way,San Diego,California,1980,Male,Good,Use of Feet,129.76,91.7
+5cc8ed61fc13ae3b0f00000a,Alys,Moretto,26 Ilene Parkway,Manassas,Virginia,1983,Female,Fair,Turning,151.27,84.42
+5cc8ed61fc13ae3b0f00000b,Ara,Breeze,242 Bay Lane,Louisville,Kentucky,1997,Female,Good,Use of Feet,151.21,46.84
+5cc8ed61fc13ae3b0f00000c,Chiquita,Martinolli,61 Eliot Lane,Louisville,Kentucky,1986,Female,Excellent,Breathing,206.53,64.63
+5cc8ed61fc13ae3b0f00000d,Adelina,Larratt,83 Golf View Drive,Richmond,Virginia,1999,Female,Excellent,Arm Action,121.16,70.34
+5cc8ed61fc13ae3b0f00000e,Ora,Creavan,7930 Birchwood Avenue,Reno,Nevada,1997,Female,Fair,Turning,133.15,63.93
+5cc8ed61fc13ae3b0f00000f,Anstice,Oddy,747 Continental Pass,Washington,District of Columbia,2005,Female,Good,Turning,191.62,78.58
+5cc8ed61fc13ae3b0f000010,Shayne,Jiggins,6 Quincy Hill,Wilmington,Delaware,2006,Male,Good,Use of Feet,125.49,82.63
+5cc8ed61fc13ae3b0f000011,Tiphany,Whapham,147 Roxbury Pass,Seattle,Washington,1985,Female,Fair,Turning,193.85,66.51
+5cc8ed61fc13ae3b0f000012,Elwood,Stockill,555 Morning Drive,Atlanta,Georgia,1997,Male,Good,Use of Feet,186.19,70.78
+5cc8ed61fc13ae3b0f000013,Daron,Eggle,031 Continental Road,Boston,Massachusetts,2002,Male,Fair,Use of Feet,185.39,71.03
+5cc8ed61fc13ae3b0f000014,Demetre,Domenichini,60903 Morning Circle,Pittsburgh,Pennsylvania,1994,Male,Good,Arm Action,153.2,71.8
+5cc8ed61fc13ae3b0f000015,Helli,Bithany,48 Cordelia Plaza,Chico,California,1986,Female,Fair,Use of Feet,199.24,89.94
+5cc8ed61fc13ae3b0f000016,Alfons,Lassey,63 Hanson Plaza,Saint Petersburg,Florida,1994,Male,Good,Breathing,158.5,43.39
+5cc8ed61fc13ae3b0f000017,Cody,Giacopazzi,79567 Crescent Oaks Point,Appleton,Wisconsin,1984,Male,Excellent,Breathing,191.78,52.49
+5cc8ed61fc13ae3b0f000018,Lanae,Extil,04 Sachtjen Drive,Washington,District of Columbia,1987,Female,Good,Breathing,137.93,78.71
+5cc8ed61fc13ae3b0f000019,Tam,Cuttler,094 Bellgrove Street,Los Angeles,California,1985,Male,Excellent,Arm Action,205.5,58.79
+5cc8ed61fc13ae3b0f00001a,Sid,Eyers,4 7th Crossing,Austin,Texas,1981,Male,Excellent,Arm Action,181.48,77.84
+5cc8ed61fc13ae3b0f00001b,Rosaline,Sudlow,3932 La Follette Street,Wichita,Kansas,1995,Female,Excellent,Arm Action,185.31,48.39
+5cc8ed61fc13ae3b0f00001c,Kareem,Holburn,303 Crownhardt Parkway,Fort Pierce,Florida,2007,Male,Good,Use of Feet,155.41,44.05
+5cc8ed61fc13ae3b0f00001d,Skye,Rubert,5 Prairieview Trail,Birmingham,Alabama,1995,Male,Fair,Turning,133.8,82.74
+5cc8ed61fc13ae3b0f00001e,Mar,Maharry,15431 Katie Crossing,Phoenix,Arizona,2008,Male,Fair,Breathing,147.6,52.46
+5cc8ed61fc13ae3b0f00001f,Hillard,Bonnavant,196 Fallview Junction,Dayton,Ohio,2003,Male,Good,Arm Action,133.6,63.57
+5cc8ed61fc13ae3b0f000020,Den,Pennings,1 Browning Plaza,Montgomery,Alabama,1988,Male,Excellent,Arm Action,138.04,91.88
+5cc8ed61fc13ae3b0f000021,Devlin,Kaesmakers,840 Fair Oaks Circle,Washington,District of Columbia,1993,Male,Fair,Turning,144.61,45.92
+5cc8ed61fc13ae3b0f000022,Phebe,Mithun,9024 Kim Parkway,Charleston,South Carolina,1994,Female,Fair,Turning,138.27,74.97
+5cc8ed61fc13ae3b0f000023,Ted,Coltart,39710 Lakewood Gardens Avenue,Lexington,Kentucky,1988,Female,Excellent,Use of Feet,122.55,45.57
+5cc8ed61fc13ae3b0f000024,Pyotr,Colgrave,59903 Colorado Crossing,Washington,District of Columbia,1989,Male,Excellent,Breathing,123.56,52.59
+5cc8ed61fc13ae3b0f000025,Kania,Sawyer,86 Truax Alley,Toledo,Ohio,2003,Female,Fair,Breathing,211.58,93.05
+5cc8ed61fc13ae3b0f000026,Maryrose,Jackalin,2 Loomis Parkway,Birmingham,Alabama,1980,Female,Good,Arm Action,189.97,94.25
+5cc8ed61fc13ae3b0f000027,Arlinda,Dedon,8463 Forest Run Parkway,Fort Wayne,Indiana,1997,Female,Fair,Arm Action,178.0,65.68
+5cc8ed61fc13ae3b0f000028,Nataline,Darbon,410 Victoria Circle,Reno,Nevada,1987,Female,Excellent,Breathing,168.05,82.59
+5cc8ed61fc13ae3b0f000029,Livvie,Botham,1664 Marquette Parkway,Dayton,Ohio,2007,Female,Excellent,Breathing,206.45,40.53
+5cc8ed61fc13ae3b0f00002a,Katerine,Noonan,95 Steensland Plaza,Battle Creek,Michigan,1992,Female,Fair,Breathing,188.94,83.08
+5cc8ed61fc13ae3b0f00002b,Cally,Breed,6548 Memorial Court,Greeley,Colorado,1981,Female,Fair,Use of Feet,201.76,93.57
+5cc8ed61fc13ae3b0f00002c,Corene,Urch,30 Sommers Junction,Sacramento,California,2006,Female,Fair,Turning,141.8,44.59
+5cc8ed61fc13ae3b0f00002d,Dorice,Demer,0 Cascade Pass,Bakersfield,California,1999,Female,Fair,Breathing,197.2,58.68
+5cc8ed61fc13ae3b0f00002e,Franni,Wensley,46696 Pleasure Terrace,Newark,New Jersey,1997,Female,Fair,Arm Action,120.21,97.52
+5cc8ed61fc13ae3b0f00002f,Nester,Crickmoor,8702 Kings Point,El Paso,Texas,1993,Male,Excellent,Use of Feet,129.25,87.91
+5cc8ed62fc13ae3b0f000030,Van,McGilroy,770 Graceland Road,Chicago,Illinois,2001,Male,Good,Arm Action,188.42,70.24
+5cc8ed62fc13ae3b0f000031,Sheryl,Veall,842 Corry Alley,Washington,District of Columbia,1993,Female,Excellent,Turning,179.98,63.77
+5cc8ed62fc13ae3b0f000032,Peyton,Vernall,28 Bartillon Junction,Pensacola,Florida,2008,Male,Good,Breathing,162.97,70.5
+5cc8ed62fc13ae3b0f000033,Putnam,Sneath,11 Lakewood Gardens Road,Pittsburgh,Pennsylvania,1991,Male,Good,Arm Action,203.4,77.32
+5cc8ed62fc13ae3b0f000034,Annalee,Skyram,7 Marcy Parkway,Saint Louis,Missouri,1990,Female,Excellent,Turning,167.92,98.48
+5cc8ed62fc13ae3b0f000035,Sonnie,Shord,2301 Mccormick Crossing,Saint Joseph,Missouri,1982,Male,Good,Arm Action,133.31,52.33
+5cc8ed62fc13ae3b0f000036,Angus,Kasman,2 Hintze Park,Riverside,California,1983,Male,Excellent,Arm Action,192.38,55.08
+5cc8ed62fc13ae3b0f000037,Koral,Huskinson,19 Jenna Parkway,Houston,Texas,1985,Female,Fair,Breathing,122.1,41.78
+5cc8ed62fc13ae3b0f000038,Man,Hallex,5 Monterey Point,North Las Vegas,Nevada,1986,Male,Good,Arm Action,149.34,45.65
+5cc8ed62fc13ae3b0f000039,Elliott,Copson,31303 5th Junction,Buffalo,New York,1982,Male,Fair,Breathing,134.47,86.87
+5cc8ed62fc13ae3b0f00003a,Dunn,Senussi,2177 Emmet Plaza,Anchorage,Alaska,1993,Male,Good,Use of Feet,170.27,54.51
+5cc8ed62fc13ae3b0f00003b,Glenna,Battany,1 Sutteridge Pass,Pompano Beach,Florida,2002,Female,Fair,Use of Feet,153.04,46.16
+5cc8ed62fc13ae3b0f00003c,Alfons,McCaw,24261 Redwing Street,Washington,District of Columbia,1998,Male,Excellent,Breathing,182.98,65.07
+5cc8ed62fc13ae3b0f00003d,Francois,Dashkov,5214 Maywood Alley,Amarillo,Texas,1993,Male,Good,Use of Feet,141.76,44.97
+5cc8ed62fc13ae3b0f00003e,Clary,Leaney,42 Mariners Cove Circle,Colorado Springs,Colorado,1993,Female,Fair,Breathing,185.83,69.41
+5cc8ed62fc13ae3b0f00003f,Heinrik,Antoniutti,181 Pierstorff Circle,Fort Collins,Colorado,2008,Male,Fair,Turning,202.92,91.68
+5cc8ed62fc13ae3b0f000040,Petunia,Kubicek,8 Dahle Lane,Roanoke,Virginia,1984,Female,Excellent,Arm Action,212.29,70.18
+5cc8ed62fc13ae3b0f000041,Yasmin,Jewks,4 Elka Junction,Miami,Florida,1981,Female,Good,Breathing,185.45,80.34
+5cc8ed62fc13ae3b0f000042,Hilary,Ghiriardelli,43485 Banding Way,Houston,Texas,1980,Male,Excellent,Breathing,153.15,53.09
+5cc8ed62fc13ae3b0f000043,Edithe,Carver,27 Mcbride Circle,Fresno,California,1992,Female,Good,Turning,173.35,76.2
+5cc8ed62fc13ae3b0f000044,Gertie,Pietraszek,29 Karstens Street,Oklahoma City,Oklahoma,1980,Female,Excellent,Turning,176.93,48.08
+5cc8ed62fc13ae3b0f000045,Jeffrey,Simeoli,3257 Meadow Vale Center,Fort Smith,Arkansas,2007,Male,Good,Use of Feet,183.6,69.95
+5cc8ed62fc13ae3b0f000046,Dorena,Breen,643 Sauthoff Circle,Indianapolis,Indiana,1999,Female,Fair,Breathing,155.77,66.27
+5cc8ed62fc13ae3b0f000047,Morey,Oby,481 Myrtle Place,Corpus Christi,Texas,1991,Male,Excellent,Turning,191.47,48.11
+5cc8ed62fc13ae3b0f000048,Lori,Gristock,003 Stang Plaza,Boise,Idaho,1981,Female,Good,Turning,177.15,50.25
+5cc8ed62fc13ae3b0f000049,Olin,Claye,77463 Mitchell Crossing,Washington,District of Columbia,1980,Male,Good,Turning,193.09,65.0
+5cc8ed62fc13ae3b0f00004a,Jon,Brunotti,56 Moulton Crossing,Dayton,Ohio,1988,Male,Fair,Arm Action,139.76,44.53
+5cc8ed62fc13ae3b0f00004b,Querida,Winckle,099 Gale Center,Chesapeake,Virginia,1992,Female,Excellent,Use of Feet,172.32,56.03
+5cc8ed62fc13ae3b0f00004c,Matthus,Scroggs,91380 Kensington Avenue,Odessa,Texas,1997,Male,Fair,Arm Action,179.96,74.38
+5cc8ed62fc13ae3b0f00004d,Zane,Balderston,2989 Steensland Pass,Charleston,West Virginia,1990,Male,Good,Arm Action,191.45,97.38
+5cc8ed62fc13ae3b0f00004e,Alfy,Marcussen,2 Dwight Lane,Palatine,Illinois,1981,Male,Good,Breathing,131.97,68.27
+5cc8ed62fc13ae3b0f00004f,Freddie,Padillo,73 Hooker Park,Alexandria,Virginia,2002,Female,Fair,Use of Feet,179.29,58.2
+5cc8ed62fc13ae3b0f000050,Clemente,De Gouy,23986 Londonderry Trail,Lakewood,Washington,1990,Male,Fair,Turning,155.59,78.39
+5cc8ed62fc13ae3b0f000051,Ariel,Gockelen,1 Jenna Parkway,Idaho Falls,Idaho,2006,Female,Good,Arm Action,132.33,60.22
+5cc8ed62fc13ae3b0f000052,Esta,Mayler,3 Merrick Hill,Richmond,Virginia,1997,Female,Fair,Use of Feet,193.26,49.82
+5cc8ed62fc13ae3b0f000053,Olivie,Adrien,03116 Melody Crossing,Washington,District of Columbia,1993,Female,Fair,Use of Feet,154.71,92.99
+5cc8ed62fc13ae3b0f000054,Antonie,Dugget,90 Fairfield Court,Knoxville,Tennessee,2002,Female,Excellent,Breathing,120.2,73.25
+5cc8ed62fc13ae3b0f000055,Kennan,Collister,88 Upham Hill,Fullerton,California,2002,Male,Fair,Use of Feet,142.41,50.73
+5cc8ed62fc13ae3b0f000056,Xymenes,Tomei,5220 Sunbrook Place,Arlington,Texas,1997,Male,Good,Arm Action,209.35,61.41
+5cc8ed62fc13ae3b0f000057,Shanon,Rubenchik,5 Granby Court,Santa Cruz,California,1998,Female,Good,Turning,196.0,78.63
+5cc8ed62fc13ae3b0f000058,Morris,Gimbrett,76 Londonderry Road,Santa Barbara,California,2000,Male,Fair,Breathing,186.58,57.65
+5cc8ed62fc13ae3b0f000059,Chris,Pittaway,62662 Surrey Street,Houston,Texas,1995,Female,Good,Use of Feet,124.18,92.13
+5cc8ed62fc13ae3b0f00005a,Krystle,Reeves,922 Scoville Plaza,Boulder,Colorado,1981,Female,Excellent,Use of Feet,156.42,75.34
+5cc8ed62fc13ae3b0f00005b,Orlando,Basindale,5 Trailsway Terrace,Sacramento,California,1996,Male,Good,Arm Action,198.99,79.31
+5cc8ed62fc13ae3b0f00005c,Liliane,Graal,5 Gulseth Hill,Sacramento,California,2000,Female,Fair,Turning,189.07,58.93
+5cc8ed62fc13ae3b0f00005d,Fleurette,Losty,1063 Farragut Alley,Bethesda,Maryland,1997,Female,Fair,Use of Feet,213.15,97.06
+5cc8ed62fc13ae3b0f00005e,Stewart,Beaument,923 Pearson Point,Des Moines,Iowa,1992,Male,Good,Breathing,134.05,88.93
+5cc8ed62fc13ae3b0f00005f,Franz,Benedtti,33 Weeping Birch Way,,,1998,Male,,,201.6,63.56
+5cc8ed62fc13ae3b0f000060,Nealy,Ogg,8 Sundown Drive,Des Moines,Iowa,1982,Male,Fair,Arm Action,180.18,87.17
+5cc8ed62fc13ae3b0f000061,Darci,Piddick,745 Hollow Ridge Drive,Bronx,New York,1988,Female,Good,Breathing,145.07,73.76
+5cc8ed62fc13ae3b0f000062,Martie,Capponeer,88544 Claremont Lane,Memphis,Tennessee,1999,Male,Fair,Use of Feet,184.37,62.19
+5cc8ed62fc13ae3b0f000063,Heywood,Guitonneau,1 Marquette Pass,Springfield,Illinois,1988,Male,Fair,Arm Action,203.48,52.76
+5cc8ed62fc13ae3b0f000064,Alick,Stell,027 Marquette Court,Richmond,Virginia,2004,Male,Fair,Arm Action,185.57,49.5
+5cc8ed62fc13ae3b0f000065,Sumner,Turone,05327 Blaine Hill,Lafayette,Louisiana,1990,Male,Excellent,Use of Feet,143.97,41.77
+5cc8ed62fc13ae3b0f000066,Theobald,MacGuiness,31014 Northridge Street,Fort Wayne,Indiana,1995,Male,Good,Breathing,201.06,56.6
+5cc8ed62fc13ae3b0f000067,Trudey,Sutherley,9208 American Plaza,Phoenix,Arizona,1981,Female,Excellent,Arm Action,195.06,74.38
+5cc8ed62fc13ae3b0f000068,Reginauld,Garber,0196 Hudson Hill,Houston,Texas,1986,Male,Fair,Use of Feet,134.15,45.79
+5cc8ed62fc13ae3b0f000069,Laurianne,Defont,4164 Maple Wood Road,Fargo,North Dakota,1997,Female,Fair,Arm Action,172.12,88.56
+5cc8ed62fc13ae3b0f00006a,Geri,Lief,2996 Utah Hill,Lexington,Kentucky,2002,Female,Excellent,Use of Feet,159.67,46.45
+5cc8ed62fc13ae3b0f00006b,Minette,Capnerhurst,638 Kim Circle,Lansing,Michigan,1988,Female,Fair,Arm Action,186.49,51.63
+5cc8ed62fc13ae3b0f00006c,Justina,Ceresa,09298 Transport Alley,Littleton,Colorado,1992,Female,Excellent,Breathing,183.54,84.16
+5cc8ed62fc13ae3b0f00006d,Teddy,Glascott,1 Heath Point,Lakeland,Florida,1990,Female,Fair,Turning,120.48,84.49
+5cc8ed62fc13ae3b0f00006e,Gare,Addicott,39 Manley Street,Salt Lake City,Utah,1984,Male,Excellent,Breathing,181.54,50.5
+5cc8ed62fc13ae3b0f00006f,Laverna,Dundendale,73 Mallory Center,Hartford,Connecticut,1999,Female,Fair,Use of Feet,141.04,49.0
+5cc8ed62fc13ae3b0f000070,Wynn,Alger,991 Hansons Hill,Davenport,Iowa,1989,Female,Fair,Turning,140.38,70.02
+5cc8ed62fc13ae3b0f000071,Leeanne,Bulfit,7328 Amoth Circle,Spokane,Washington,1998,Female,Excellent,Breathing,158.33,75.63
+5cc8ed62fc13ae3b0f000072,Aleksandr,Corps,3034 Mariners Cove Crossing,Palmdale,California,1987,Male,Good,Turning,191.25,99.09
+5cc8ed62fc13ae3b0f000073,Thatch,Goretti,66 La Follette Avenue,Sacramento,California,1995,Male,Excellent,Arm Action,167.26,84.54
+5cc8ed62fc13ae3b0f000074,Milton,De Domenicis,05 Kenwood Junction,Houston,Texas,1982,Male,Fair,Arm Action,168.61,91.38
+5cc8ed62fc13ae3b0f000075,Denys,Heaker,057 Riverside Crossing,Kent,Washington,2002,Female,Excellent,Turning,210.29,58.86
+5cc8ed62fc13ae3b0f000076,Rochella,Grastye,770 Portage Avenue,Youngstown,Ohio,1992,Female,Excellent,Use of Feet,160.75,51.43
+5cc8ed62fc13ae3b0f000077,Maxy,Corzon,154 Delladonna Park,Virginia Beach,Virginia,2008,Male,Good,Turning,202.89,61.84
+5cc8ed62fc13ae3b0f000078,Lucio,Aldwick,33545 Cherokee Street,Fort Pierce,Florida,1988,Male,Good,Use of Feet,120.35,68.47
+5cc8ed62fc13ae3b0f000079,Delinda,Gilberthorpe,3 Paget Pass,Houston,Texas,1991,Female,Fair,Arm Action,136.32,90.79
+5cc8ed62fc13ae3b0f00007a,Erie,Bratton,3899 Buhler Way,Sioux City,Iowa,1995,Male,Fair,Breathing,147.42,57.18
+5cc8ed62fc13ae3b0f00007b,Hadleigh,MacCurtain,92323 3rd Plaza,Everett,Washington,1985,Male,Fair,Use of Feet,132.58,92.47
+5cc8ed62fc13ae3b0f00007c,Ronald,Langthorn,699 Sycamore Circle,Oakland,California,2001,Male,Excellent,Turning,206.41,59.17
+5cc8ed62fc13ae3b0f00007d,Brigitta,Trumper,00 Stang Way,Mobile,Alabama,2002,Female,Excellent,Use of Feet,120.82,67.93
+5cc8ed62fc13ae3b0f00007e,Raymund,Yesinin,8 Pepper Wood Way,Las Vegas,Nevada,1993,Male,Fair,Use of Feet,126.04,43.42
+5cc8ed62fc13ae3b0f00007f,Jorrie,Chevolleau,3917 Lighthouse Bay Road,Houston,Texas,1985,Female,Good,Use of Feet,129.33,81.45
+5cc8ed62fc13ae3b0f000080,Jenny,Terbeek,08557 Scoville Street,Albuquerque,New Mexico,2004,Female,Good,Use of Feet,172.59,84.25
+5cc8ed62fc13ae3b0f000081,Myrle,Glasper,28399 Cody Drive,Marietta,Georgia,1988,Female,Good,Turning,126.53,45.62
+5cc8ed62fc13ae3b0f000082,Boony,Overal,943 Oak Valley Trail,Spokane,Washington,2008,Male,Excellent,Arm Action,122.28,47.8
+5cc8ed62fc13ae3b0f000083,Alain,Sinderson,686 Northfield Park,Cleveland,Ohio,1989,Male,Excellent,Arm Action,194.97,77.49
+5cc8ed62fc13ae3b0f000084,Kellina,Hiley,82 Kensington Court,Albuquerque,New Mexico,1980,Female,Fair,Turning,162.84,50.96
+5cc8ed62fc13ae3b0f000085,Felipa,Petters,356 Fremont Avenue,Los Angeles,California,1992,Female,Good,Use of Feet,178.0,90.08
+5cc8ed62fc13ae3b0f000086,Arlina,Smithson,1716 Judy Lane,High Point,North Carolina,2003,Female,Excellent,Use of Feet,192.25,50.06
+5cc8ed62fc13ae3b0f000087,Tony,Brayfield,50677 Merrick Avenue,Canton,Ohio,2000,Male,Fair,Use of Feet,156.7,77.73
+5cc8ed62fc13ae3b0f000088,Rand,Holburn,7 Huxley Point,Tulsa,Oklahoma,1987,Male,Excellent,Breathing,182.66,68.79
+5cc8ed62fc13ae3b0f000089,Andre,Palliser,3 Rigney Terrace,Jamaica,New York,1999,Male,Fair,Arm Action,181.85,63.47
+5cc8ed62fc13ae3b0f00008a,Tamarah,Duberry,041 Anderson Parkway,Gary,Indiana,1995,Female,Fair,Use of Feet,201.94,95.8
+5cc8ed62fc13ae3b0f00008b,Levy,MacGillreich,07449 Glacier Hill Drive,Montgomery,Alabama,1994,Male,Fair,Use of Feet,195.61,78.42
+5cc8ed62fc13ae3b0f00008c,Halsey,Syfax,23 Mesta Way,Winston Salem,North Carolina,1986,Male,Excellent,Breathing,158.14,41.51
+5cc8ed62fc13ae3b0f00008d,Merle,Monshall,00 Loftsgordon Park,Reston,Virginia,2006,Female,Good,Turning,181.54,75.92
+5cc8ed62fc13ae3b0f00008e,Ira,Kiltie,75623 Comanche Terrace,Trenton,New Jersey,1994,Female,Good,Use of Feet,188.33,56.18
+5cc8ed62fc13ae3b0f00008f,Lyda,Tomaszynski,9 Utah Center,Detroit,Michigan,2005,Female,Good,Arm Action,201.3,95.38
+5cc8ed62fc13ae3b0f000090,Cletus,Duff,5399 Lakewood Street,Sioux Falls,South Dakota,1995,Male,Excellent,Turning,207.55,61.19
+5cc8ed62fc13ae3b0f000091,Morna,Brokenshaw,7 David Center,El Paso,Texas,1993,Female,Fair,Turning,195.04,93.45
+5cc8ed62fc13ae3b0f000092,Christiano,Sacco,4522 Mcguire Lane,Buffalo,New York,1980,Male,Fair,Arm Action,195.32,59.36
+5cc8ed62fc13ae3b0f000093,Ossie,Blessed,0 Lyons Drive,Rochester,New York,1982,Male,Fair,Arm Action,135.18,68.6
+5cc8ed62fc13ae3b0f000094,Averell,Lissandre,00602 Texas Drive,Detroit,Michigan,1992,Male,Excellent,Breathing,164.81,96.48
+5cc8ed62fc13ae3b0f000095,Reggie,Woolis,7426 Maryland Point,Houston,Texas,1992,Female,Fair,Breathing,175.44,91.93
+5cc8ed62fc13ae3b0f000096,Maggi,Newing,88704 Badeau Way,Portland,Oregon,2002,Female,Good,Turning,193.08,52.85
+5cc8ed62fc13ae3b0f000097,Purcell,Comer,6413 Superior Center,North Hollywood,California,2004,Male,Fair,Turning,181.43,44.89
+5cc8ed62fc13ae3b0f000098,Debra,Clemmett,11 Orin Parkway,Colorado Springs,Colorado,1983,Female,Excellent,Turning,135.55,45.5
+5cc8ed62fc13ae3b0f000099,Lamont,Scoggin,59872 Farwell Place,Washington,District of Columbia,1996,Male,Excellent,Breathing,134.53,96.18
+5cc8ed62fc13ae3b0f00009a,Jasper,Fawdery,1761 Lakewood Hill,Dallas,Texas,1998,Male,Good,Arm Action,198.43,47.23
+5cc8ed62fc13ae3b0f00009b,Elias,Matiashvili,016 Raven Parkway,El Paso,Texas,1984,Male,Fair,Turning,172.06,71.03
+5cc8ed62fc13ae3b0f00009c,Benita,Everard,32751 Tennyson Way,Washington,District of Columbia,1984,Female,Fair,Arm Action,186.68,43.02
+5cc8ed62fc13ae3b0f00009d,Erie,Hollingshead,8 Oriole Terrace,Marietta,Georgia,1980,Male,Fair,Use of Feet,132.17,68.47
+5cc8ed62fc13ae3b0f00009e,Marlin,Antyukhin,80 Truax Road,Toledo,Ohio,1995,Male,Fair,Turning,190.23,92.91
+5cc8ed62fc13ae3b0f00009f,Kylen,Scriviner,30462 Cherokee Drive,Clearwater,Florida,1983,Female,Good,Use of Feet,208.33,52.3
+5cc8ed62fc13ae3b0f0000a0,Jena,Fordyce,7325 Oakridge Plaza,Philadelphia,Pennsylvania,1984,Female,Fair,Breathing,199.58,43.81
+5cc8ed62fc13ae3b0f0000a1,Brynna,Hancorn,41647 Oxford Alley,Brooklyn,New York,1985,Female,Excellent,Breathing,171.95,80.27
+5cc8ed62fc13ae3b0f0000a2,Everard,Baccas,61352 Lakewood Court,Zephyrhills,Florida,2007,Male,Fair,Arm Action,191.18,56.78
+5cc8ed62fc13ae3b0f0000a3,Tore,Vivers,8488 Mifflin Park,San Francisco,California,1994,Male,Fair,Turning,172.77,84.55
+5cc8ed62fc13ae3b0f0000a4,Robbyn,Thunnercliff,6 7th Hill,Scottsdale,Arizona,1989,Female,Good,Turning,133.11,74.39
+5cc8ed62fc13ae3b0f0000a5,Emmalynne,Aulsford,584 Michigan Terrace,Lafayette,Indiana,1998,Female,Excellent,Arm Action,165.84,81.95
+5cc8ed62fc13ae3b0f0000a6,Darby,Schruurs,04876 Summit Trail,Brooklyn,New York,2002,Male,Excellent,Arm Action,164.1,61.66
+5cc8ed62fc13ae3b0f0000a7,Bryant,Bunting,24 Heffernan Circle,Jackson,Tennessee,2001,Male,Excellent,Breathing,157.16,46.54
+5cc8ed62fc13ae3b0f0000a8,Kippie,Tennet,9 Maple Wood Terrace,Raleigh,North Carolina,1987,Female,Excellent,Arm Action,159.84,78.48
+5cc8ed62fc13ae3b0f0000a9,Cedric,Kelly,6 Scoville Crossing,Wichita,Kansas,1990,Male,Fair,Breathing,147.88,45.24
+5cc8ed62fc13ae3b0f0000aa,Hyman,Olenchikov,61 Sutherland Alley,Sioux Falls,South Dakota,1997,Male,Good,Arm Action,201.87,91.45
+5cc8ed62fc13ae3b0f0000ab,Gerti,McCathy,68 Caliangt Point,Columbia,Missouri,1982,Female,Fair,Turning,183.01,73.51
+5cc8ed62fc13ae3b0f0000ac,Morissa,Hawkslee,111 Hanson Court,Syracuse,New York,1988,Female,Fair,Use of Feet,210.73,71.58
+5cc8ed62fc13ae3b0f0000ad,Lucy,Sneyd,9 Brown Point,Metairie,Louisiana,1995,Female,Good,Arm Action,132.18,45.5
+5cc8ed62fc13ae3b0f0000ae,Austen,Greeve,11314 Veith Place,Wilmington,Delaware,2005,Male,Excellent,Use of Feet,201.26,90.93
+5cc8ed62fc13ae3b0f0000af,Winne,Finnigan,89069 Brown Point,Warren,Michigan,1999,Female,Excellent,Use of Feet,173.91,73.57
+5cc8ed62fc13ae3b0f0000b0,Emlynn,Instone,3829 Utah Court,Ogden,Utah,2002,Female,Excellent,Use of Feet,123.49,92.71
+5cc8ed62fc13ae3b0f0000b1,Ertha,Travis,3 Stone Corner Avenue,Whittier,California,1980,Female,Good,Use of Feet,123.48,69.22
+5cc8ed62fc13ae3b0f0000b2,Antonie,Chamberlayne,2640 Independence Way,Little Rock,Arkansas,1993,Female,Good,Use of Feet,209.39,80.86
+5cc8ed62fc13ae3b0f0000b3,Tandie,Deluze,70376 Dovetail Pass,El Paso,Texas,1981,Female,Fair,Breathing,194.3,86.27
+5cc8ed62fc13ae3b0f0000b4,Sidnee,Bantock,21 Hazelcrest Parkway,Chico,California,1998,Male,Fair,Arm Action,145.72,81.3
+5cc8ed62fc13ae3b0f0000b5,Blinny,Grigorio,28 Raven Place,Orlando,Florida,1991,Female,Excellent,Arm Action,198.09,40.53
+5cc8ed62fc13ae3b0f0000b6,Bent,Hulstrom,147 Brown Plaza,San Angelo,Texas,1986,Male,Fair,Use of Feet,129.9,89.63
+5cc8ed62fc13ae3b0f0000b7,Zsazsa,McDermot,9765 Mallard Way,Lexington,Kentucky,1983,Female,Good,Arm Action,212.33,60.3
+5cc8ed62fc13ae3b0f0000b8,Wright,Tarbert,24 Wayridge Pass,Aurora,Colorado,1992,Male,Excellent,Turning,190.67,55.79
+5cc8ed62fc13ae3b0f0000b9,Beatrix,Hegel,50658 Caliangt Avenue,Albuquerque,New Mexico,1988,Female,Fair,Arm Action,135.67,76.54
+5cc8ed62fc13ae3b0f0000ba,Holli,Jiri,2 Ludington Plaza,Atlanta,Georgia,1992,Female,Good,Arm Action,161.81,77.65
+5cc8ed62fc13ae3b0f0000bb,Connor,Scotchbourouge,52 Sunnyside Place,Seattle,Washington,2000,Male,Fair,Breathing,167.61,50.53
+5cc8ed62fc13ae3b0f0000bc,Salem,Clavey,673 Fallview Road,Dallas,Texas,1996,Male,Fair,Turning,207.59,58.74
+5cc8ed62fc13ae3b0f0000bd,Barbe,Pagin,44 Tony Point,Los Angeles,California,1982,Female,Good,Breathing,164.6,71.63
+5cc8ed62fc13ae3b0f0000be,Hoyt,Calderon,5165 Atwood Pass,Detroit,Michigan,1990,Male,Good,Use of Feet,124.29,51.99
+5cc8ed62fc13ae3b0f0000bf,Orazio,Warton,711 Stang Pass,Jefferson City,Missouri,1982,Male,Fair,Arm Action,165.54,77.88
+5cc8ed62fc13ae3b0f0000c0,Amabelle,Woloschinski,35 8th Lane,Chicago,Illinois,2007,Female,Excellent,Breathing,184.16,67.79
+5cc8ed62fc13ae3b0f0000c1,Cobby,Terbrugge,7 Canary Lane,Buffalo,New York,1989,Male,Fair,Breathing,157.67,76.82
+5cc8ed62fc13ae3b0f0000c2,Patrice,Lorrimer,51 Scoville Drive,New York City,New York,1996,Male,Excellent,Turning,164.53,76.69
+5cc8ed62fc13ae3b0f0000c3,Denver,Turpin,3 Barby Avenue,Boise,Idaho,1994,Male,Fair,Breathing,170.95,88.6
+5cc8ed62fc13ae3b0f0000c4,Caty,Percifer,6549 Waubesa Alley,El Paso,Texas,1981,Female,Fair,Arm Action,136.91,74.51
+5cc8ed62fc13ae3b0f0000c5,Carol,Groucutt,869 Hayes Road,Fort Wayne,Indiana,1999,Female,Fair,Arm Action,144.26,68.8
+5cc8ed62fc13ae3b0f0000c6,Rozanne,Jakubski,27485 Division Crossing,Columbus,Ohio,1992,Female,Fair,Use of Feet,120.84,40.37
+5cc8ed62fc13ae3b0f0000c7,Dori,Rubinovitsch,1 Blackbird Street,Washington,District of Columbia,1983,Female,Excellent,Arm Action,192.16,74.37
+5cc8ed62fc13ae3b0f0000c8,Aviva,Hartell,90388 Dahle Park,Shawnee Mission,Kansas,1997,Female,Fair,Breathing,180.82,82.81
+5cc8ed62fc13ae3b0f0000c9,Herve,Abson,31 Bunting Avenue,Madison,Wisconsin,1983,Male,Good,Use of Feet,146.71,60.31
+5cc8ed62fc13ae3b0f0000ca,Tammie,Baugham,016 Lakewood Parkway,Louisville,Kentucky,2000,Male,Fair,Use of Feet,208.37,90.09
+5cc8ed62fc13ae3b0f0000cb,Kendra,McPartling,50 Briar Crest Junction,Spokane,Washington,1999,Female,Fair,Arm Action,129.74,60.49
+5cc8ed62fc13ae3b0f0000cc,Sianna,Hebson,02353 Vidon Crossing,Phoenix,Arizona,1993,Female,Good,Breathing,208.07,94.91
+5cc8ed62fc13ae3b0f0000cd,Culver,Pharo,043 Mitchell Way,Richmond,Virginia,1989,Male,Good,Turning,124.05,79.21
+5cc8ed62fc13ae3b0f0000ce,Kalvin,Buckthought,55 Bellgrove Circle,Chico,California,2008,Male,Fair,Breathing,182.36,42.5
+5cc8ed62fc13ae3b0f0000cf,Gray,Brockie,4902 Meadow Vale Trail,Monticello,Minnesota,1988,Male,Excellent,Use of Feet,140.46,50.89
+5cc8ed62fc13ae3b0f0000d0,Jasmine,Milmo,0 Crescent Oaks Lane,Saint Petersburg,Florida,1989,Female,Excellent,Arm Action,203.79,90.85
+5cc8ed62fc13ae3b0f0000d1,Bria,Holcroft,3262 Packers Pass,Baltimore,Maryland,2003,Female,Excellent,Breathing,172.75,61.32
+5cc8ed62fc13ae3b0f0000d2,Theodor,O'Currine,9192 Holy Cross Pass,Memphis,Tennessee,1980,Male,Excellent,Breathing,153.6,49.79
+5cc8ed62fc13ae3b0f0000d3,Katie,Deverock,810 Banding Junction,Indianapolis,Indiana,2000,Female,Excellent,Arm Action,146.97,73.71
+5cc8ed62fc13ae3b0f0000d4,Bernice,Oakden,7420 Burning Wood Street,El Paso,Texas,1987,Female,Excellent,Breathing,138.93,66.17
+5cc8ed62fc13ae3b0f0000d5,Shena,Bushnell,7685 Talmadge Hill,,,1980,Female,,,174.24,41.99
+5cc8ed62fc13ae3b0f0000d6,Dunc,Heistermann,3 Buell Crossing,Tulsa,Oklahoma,1995,Male,Excellent,Use of Feet,200.73,77.0
+5cc8ed62fc13ae3b0f0000d7,Carolus,Dimitrie,209 American Ash Point,,,2003,Male,,,211.31,44.17
+5cc8ed62fc13ae3b0f0000d8,Nathan,Thairs,9 Schmedeman Lane,Richmond,Virginia,1981,Male,Fair,Breathing,175.05,81.77
+5cc8ed62fc13ae3b0f0000d9,Richard,Arnson,183 Crowley Terrace,Charlotte,North Carolina,2003,Male,Excellent,Turning,167.74,91.08
+5cc8ed62fc13ae3b0f0000da,Dewie,Bertin,5124 Comanche Street,Boston,Massachusetts,1982,Male,Excellent,Use of Feet,154.41,83.74
+5cc8ed62fc13ae3b0f0000db,Hobart,Goldes,9794 Pine View Center,New Haven,Connecticut,1986,Male,Good,Turning,186.58,79.95
+5cc8ed62fc13ae3b0f0000dc,Caria,Longridge,39 Redwing Court,Kansas City,Missouri,1998,Female,Fair,Use of Feet,135.56,83.82
+5cc8ed62fc13ae3b0f0000dd,Sutherlan,Jossum,585 Lakewood Alley,Charleston,South Carolina,1991,Male,Fair,Arm Action,212.88,51.34
+5cc8ed62fc13ae3b0f0000de,Cynde,Riches,820 Mayfield Avenue,Winston Salem,North Carolina,2001,Female,Fair,Arm Action,202.96,48.48
+5cc8ed62fc13ae3b0f0000df,Dela,Partkya,72059 Coolidge Parkway,Clearwater,Florida,1991,Female,Excellent,Turning,135.08,90.0
+5cc8ed62fc13ae3b0f0000e0,Sabra,Tessington,2 Scott Hill,Orlando,Florida,1983,Female,Fair,Use of Feet,165.25,97.68
+5cc8ed62fc13ae3b0f0000e1,Pascale,Belford,19460 Vera Terrace,Harrisburg,Pennsylvania,1993,Male,Fair,Arm Action,123.7,90.82
+5cc8ed62fc13ae3b0f0000e2,Randolph,Howlin,94 Marquette Drive,Modesto,California,1983,Male,Good,Use of Feet,205.2,56.06
+5cc8ed62fc13ae3b0f0000e3,Phip,Ridewood,2870 Hansons Trail,Cincinnati,Ohio,1997,Male,Fair,Arm Action,181.6,67.81
+5cc8ed62fc13ae3b0f0000e4,Hatty,Wintle,688 Melody Junction,Atlanta,Georgia,1999,Female,Fair,Turning,207.72,60.13
+5cc8ed62fc13ae3b0f0000e5,Adey,Patching,162 Blackbird Hill,Salt Lake City,Utah,1994,Female,Excellent,Breathing,182.14,89.26
+5cc8ed62fc13ae3b0f0000e6,Ode,Girod,97284 Westridge Alley,El Paso,Texas,2001,Male,Fair,Arm Action,205.59,77.33
+5cc8ed62fc13ae3b0f0000e7,Alix,Gergely,3055 7th Avenue,Chicago,Illinois,1987,Male,Excellent,Turning,161.66,84.66
+5cc8ed62fc13ae3b0f0000e8,Connie,Waszkiewicz,78985 Buell Terrace,Houston,Texas,2003,Female,Fair,Turning,209.38,65.28
+5cc8ed62fc13ae3b0f0000e9,Mia,Doleman,0 Bartillon Court,Sarasota,Florida,2007,Female,Fair,Use of Feet,199.44,68.43
+5cc8ed62fc13ae3b0f0000ea,Nerta,Benedikt,0821 Veith Trail,Boulder,Colorado,1986,Female,Excellent,Use of Feet,183.78,74.97
+5cc8ed62fc13ae3b0f0000eb,Harriet,Pizzey,3 Clyde Gallagher Terrace,Topeka,Kansas,1984,Female,Excellent,Breathing,177.78,48.62
+5cc8ed62fc13ae3b0f0000ec,Philip,Sherington,2 Little Fleur Way,Boston,Massachusetts,2002,Male,Good,Breathing,128.46,84.54
+5cc8ed62fc13ae3b0f0000ed,Bree,Donnersberg,0 Sauthoff Junction,Denver,Colorado,1981,Female,Fair,Arm Action,188.98,94.29
+5cc8ed62fc13ae3b0f0000ee,Parrnell,Gunney,0487 Di Loreto Center,Los Angeles,California,1999,Male,Good,Arm Action,183.63,85.84
+5cc8ed62fc13ae3b0f0000ef,Erena,Barbe,19 Grayhawk Alley,Springfield,Illinois,1998,Female,Excellent,Breathing,197.18,90.12
+5cc8ed62fc13ae3b0f0000f0,Miran,Cashell,5 Granby Circle,Lakeland,Florida,1987,Female,Good,Use of Feet,194.41,65.09
+5cc8ed62fc13ae3b0f0000f1,Mufinella,McGaughay,116 Mcbride Road,Spring,Texas,1992,Female,Good,Arm Action,167.71,97.76
+5cc8ed62fc13ae3b0f0000f2,Robert,Carbine,30563 Moland Alley,Jackson,Tennessee,1982,Male,Good,Turning,190.65,87.08
+5cc8ed62fc13ae3b0f0000f3,Ann-marie,Kitlee,51367 Fallview Plaza,Orlando,Florida,1982,Female,Fair,Use of Feet,192.77,67.47
+5cc8ed62fc13ae3b0f0000f4,Geordie,Paulino,55328 Loeprich Center,Gainesville,Florida,1980,Male,Fair,Use of Feet,169.17,78.67
+5cc8ed62fc13ae3b0f0000f5,Maxie,Goodsir,20920 Main Plaza,Charlotte,North Carolina,1984,Male,Fair,Use of Feet,129.72,75.47
+5cc8ed62fc13ae3b0f0000f6,Aura,Crewes,930 Cambridge Avenue,New York City,New York,1989,Female,Excellent,Arm Action,190.96,64.07
+5cc8ed62fc13ae3b0f0000f7,Shayne,Sporle,2006 Alpine Hill,Odessa,Texas,2005,Female,Excellent,Use of Feet,209.81,90.44
+5cc8ed62fc13ae3b0f0000f8,Carmencita,Wildblood,538 Birchwood Junction,Minneapolis,Minnesota,1983,Female,Fair,Use of Feet,177.02,40.48
+5cc8ed62fc13ae3b0f0000f9,Pamelina,Grimm,348 Division Crossing,Racine,Wisconsin,2007,Female,Excellent,Use of Feet,150.64,40.49
+5cc8ed62fc13ae3b0f0000fa,Eolanda,Dewan,99326 Crest Line Hill,Memphis,Tennessee,2003,Female,Good,Use of Feet,140.32,73.46
+5cc8ed62fc13ae3b0f0000fb,Alley,Reitenbach,461 Corry Court,Brooklyn,New York,2000,Male,Good,Arm Action,191.93,46.55
+5cc8ed62fc13ae3b0f0000fc,Tyne,Friett,380 Tennyson Circle,Juneau,Alaska,2007,Female,Excellent,Use of Feet,173.18,98.24
+5cc8ed62fc13ae3b0f0000fd,Paxton,Le Estut,42376 Linden Terrace,Phoenix,Arizona,2005,Male,Good,Use of Feet,157.67,80.45
+5cc8ed62fc13ae3b0f0000fe,Nevsa,Wennington,3 Hayes Terrace,Arlington,Virginia,1981,Female,Excellent,Use of Feet,156.81,85.55
+5cc8ed62fc13ae3b0f0000ff,Brigida,Starton,6521 Heffernan Hill,Lubbock,Texas,2001,Female,Fair,Use of Feet,172.91,82.15
+5cc8ed62fc13ae3b0f000100,Averill,Gadson,89224 Anthes Circle,Oceanside,California,2007,Male,Good,Turning,157.63,60.4
+5cc8ed62fc13ae3b0f000101,Elmer,Plumbridge,945 Butternut Court,Richmond,Virginia,1989,Male,Good,Breathing,140.99,95.09
+5cc8ed62fc13ae3b0f000102,Mimi,Barnfather,616 Meadow Ridge Circle,Boise,Idaho,2006,Female,Fair,Use of Feet,214.24,58.48
+5cc8ed62fc13ae3b0f000103,Lamar,Jeffryes,463 Charing Cross Court,Washington,District of Columbia,1987,Male,Good,Use of Feet,139.84,44.94
+5cc8ed62fc13ae3b0f000104,Danita,Terne,2180 Badeau Alley,Glendale,California,1986,Female,Fair,Arm Action,131.37,49.51
+5cc8ed62fc13ae3b0f000105,Reeba,Rigler,258 Truax Road,San Antonio,Texas,1983,Female,Fair,Use of Feet,202.38,86.36
+5cc8ed62fc13ae3b0f000106,Bartolomeo,Reppaport,7048 Golf View Center,Washington,District of Columbia,2000,Male,Good,Turning,151.26,99.86
+5cc8ed62fc13ae3b0f000107,Kelley,Laidlaw,3185 Schurz Plaza,Detroit,Michigan,1991,Female,Excellent,Turning,157.08,98.07
+5cc8ed62fc13ae3b0f000108,Gallagher,McCoish,201 Reinke Center,Miami,Florida,2002,Male,Excellent,Use of Feet,127.75,51.43
+5cc8ed62fc13ae3b0f000109,Elene,Cuolahan,0 Golden Leaf Terrace,Lancaster,Pennsylvania,2008,Female,Good,Breathing,203.18,92.99
+5cc8ed62fc13ae3b0f00010a,Dasie,Symmers,18 Schlimgen Court,Ogden,Utah,1988,Female,Fair,Breathing,194.22,46.12
+5cc8ed62fc13ae3b0f00010b,Tulley,De Launde,46985 Kipling Road,Seminole,Florida,2001,Male,Excellent,Breathing,191.56,91.69
+5cc8ed62fc13ae3b0f00010c,Kayla,Fellgate,86 Northport Park,Kent,Washington,2000,Female,Good,Turning,149.24,43.13
+5cc8ed62fc13ae3b0f00010d,Luz,Bresnahan,3 Sommers Crossing,Washington,District of Columbia,2003,Female,Excellent,Arm Action,144.55,88.58
+5cc8ed62fc13ae3b0f00010e,Lucius,Canelas,71 Pleasure Crossing,Pensacola,Florida,1991,Male,Excellent,Turning,171.72,78.12
+5cc8ed62fc13ae3b0f00010f,Marcelo,Rabbage,6 Banding Circle,Miami,Florida,1980,Male,Excellent,Use of Feet,179.57,66.3
+5cc8ed62fc13ae3b0f000110,Chrissie,Fearns,71 Eastlawn Road,Miami,Florida,1982,Female,Excellent,Use of Feet,149.34,96.06
+5cc8ed62fc13ae3b0f000111,Marney,Coulston,31 Truax Hill,Memphis,Tennessee,1995,Female,Excellent,Use of Feet,131.01,96.5
+5cc8ed62fc13ae3b0f000112,Emilie,Scain,73 Orin Pass,Dayton,Ohio,1989,Female,Fair,Use of Feet,163.86,64.63
+5cc8ed62fc13ae3b0f000113,Cortie,Bontoft,5 2nd Way,Springfield,Illinois,1989,Male,Good,Breathing,214.35,90.68
+5cc8ed62fc13ae3b0f000114,Conrado,Dunstall,82 Muir Road,Reno,Nevada,1994,Male,Fair,Arm Action,156.22,45.86
+5cc8ed62fc13ae3b0f000115,Charita,Hanigan,52 Little Fleur Junction,Tulsa,Oklahoma,2004,Female,Good,Arm Action,171.88,43.83
+5cc8ed62fc13ae3b0f000116,Idalina,Polson,0350 3rd Street,Shawnee Mission,Kansas,1997,Female,Fair,Turning,160.54,41.64
+5cc8ed62fc13ae3b0f000117,Kary,Padilla,21523 Service Plaza,Dallas,Texas,1989,Female,Good,Turning,163.35,73.4
+5cc8ed62fc13ae3b0f000118,Glenn,Gater,48 Farragut Terrace,,,2001,Male,,,139.01,90.89
+5cc8ed62fc13ae3b0f000119,Boyd,O'Hagerty,10 Coolidge Lane,Dallas,Texas,1998,Male,Excellent,Use of Feet,196.1,63.5
+5cc8ed62fc13ae3b0f00011a,Gill,Aplin,8 Sugar Alley,Tempe,Arizona,2006,Male,Good,Use of Feet,121.7,74.18
+5cc8ed62fc13ae3b0f00011b,Marley,Barnish,3 Spaight Parkway,Gainesville,Florida,1981,Female,Fair,Breathing,182.58,92.51
+5cc8ed62fc13ae3b0f00011c,Bartholomeo,Kestell,13 Columbus Alley,Providence,Rhode Island,1998,Male,Excellent,Use of Feet,185.53,66.14
+5cc8ed62fc13ae3b0f00011d,Axel,Breen,5 Tomscot Lane,New Hyde Park,New York,1991,Male,Fair,Arm Action,211.26,87.1
+5cc8ed62fc13ae3b0f00011e,Suzann,Ankrett,84305 Hoard Hill,Boston,Massachusetts,1990,Female,Good,Turning,209.32,62.86
+5cc8ed62fc13ae3b0f00011f,Ervin,Balaisot,3 Commercial Pass,Tucson,Arizona,1983,Male,Excellent,Turning,145.74,65.4
+5cc8ed62fc13ae3b0f000120,Carmella,Wreight,44 Nova Court,,,2003,Female,,,155.33,63.6
+5cc8ed62fc13ae3b0f000121,Matty,Merry,4943 Maple Wood Parkway,Lincoln,Nebraska,1981,Male,Excellent,Turning,165.71,87.9
+5cc8ed62fc13ae3b0f000122,Erv,Paulack,8077 Melrose Center,San Diego,California,1999,Male,Fair,Arm Action,190.58,42.32
+5cc8ed62fc13ae3b0f000123,Haven,Brackpool,38 8th Place,Jamaica,New York,1999,Male,Good,Breathing,167.77,50.68
+5cc8ed62fc13ae3b0f000124,Bordie,Martinie,871 Arapahoe Alley,El Paso,Texas,1990,Male,Fair,Use of Feet,132.12,41.95
+5cc8ed62fc13ae3b0f000125,Seana,Roset,142 Eagan Drive,San Jose,California,1987,Female,Fair,Arm Action,202.72,99.72
+5cc8ed62fc13ae3b0f000126,Gorden,Wysome,5 Cambridge Drive,Denver,Colorado,1998,Male,Fair,Arm Action,179.86,46.9
+5cc8ed62fc13ae3b0f000127,Baxter,Gooley,939 Carioca Avenue,Washington,District of Columbia,2001,Male,Excellent,Use of Feet,203.61,95.56
+5cc8ed62fc13ae3b0f000128,Emmy,Cleugh,7 Anniversary Pass,Louisville,Kentucky,2006,Male,Good,Arm Action,136.29,81.61
+5cc8ed62fc13ae3b0f000129,Larisa,Revitt,01 Heath Alley,Canton,Ohio,1988,Female,Good,Turning,121.62,54.22
+5cc8ed62fc13ae3b0f00012a,Hiram,Sarginson,524 Oneill Crossing,Houston,Texas,1990,Male,Fair,Use of Feet,202.2,90.77
+5cc8ed62fc13ae3b0f00012b,Mead,Catlin,930 Burrows Junction,Cincinnati,Ohio,2000,Male,Excellent,Use of Feet,128.33,60.01
+5cc8ed62fc13ae3b0f00012c,Jamal,Le Blond,80 Northport Plaza,Port Washington,New York,1996,Male,Good,Turning,120.98,90.47
+5cc8ed62fc13ae3b0f00012d,Melisenda,Fisher,83 Springs Street,San Antonio,Texas,2008,Female,Good,Breathing,125.53,51.75
+5cc8ed62fc13ae3b0f00012e,Gabe,Bonicelli,06 Glacier Hill Place,Washington,District of Columbia,2004,Male,Fair,Arm Action,127.29,75.07
+5cc8ed62fc13ae3b0f00012f,Amandie,MacRierie,6801 Pond Parkway,Tacoma,Washington,2003,Female,Fair,Arm Action,139.46,94.68
+5cc8ed62fc13ae3b0f000130,Karena,Bangle,2 Northport Point,Provo,Utah,1998,Female,Good,Turning,126.61,52.53
+5cc8ed62fc13ae3b0f000131,Parker,Rilings,336 Knutson Circle,Washington,District of Columbia,1981,Male,Good,Use of Feet,185.37,59.09
+5cc8ed62fc13ae3b0f000132,Angie,Barbara,94956 Sage Road,Hartford,Connecticut,2003,Female,Excellent,Breathing,212.98,84.72
+5cc8ed62fc13ae3b0f000133,Rik,Statham,77266 Cambridge Avenue,Hagerstown,Maryland,1994,Male,Excellent,Arm Action,213.22,76.84
+5cc8ed62fc13ae3b0f000134,Grantley,Willingam,3183 Eliot Hill,Minneapolis,Minnesota,1989,Male,Good,Use of Feet,184.52,44.64
+5cc8ed62fc13ae3b0f000135,Mar,Furze,7 Melrose Plaza,San Bernardino,California,1992,Male,Fair,Arm Action,125.21,72.67
+5cc8ed62fc13ae3b0f000136,Parker,Dragonette,4161 Summit Junction,Los Angeles,California,2000,Male,Excellent,Turning,189.28,86.35
+5cc8ed62fc13ae3b0f000137,Nollie,Blundin,18 Lukken Place,Houston,Texas,1995,Male,Excellent,Breathing,161.68,55.0
+5cc8ed62fc13ae3b0f000138,Lewes,Walduck,167 Merchant Way,New Orleans,Louisiana,1982,Male,Good,Turning,213.68,45.16
+5cc8ed62fc13ae3b0f000139,Emmalynne,Pitkeathly,4460 Toban Terrace,Saint Cloud,Minnesota,1985,Female,Fair,Breathing,209.5,88.89
+5cc8ed62fc13ae3b0f00013a,Averyl,Atling,7165 Annamark Park,Bryan,Texas,1990,Female,Fair,Use of Feet,166.56,94.42
+5cc8ed62fc13ae3b0f00013b,Heather,Moffet,35 Bultman Road,Lexington,Kentucky,1999,Female,Good,Arm Action,170.17,83.43
+5cc8ed62fc13ae3b0f00013c,Row,Jouannin,3583 Pierstorff Way,Southfield,Michigan,2001,Female,Excellent,Use of Feet,151.83,94.16
+5cc8ed62fc13ae3b0f00013d,Bronson,Dagger,5615 Birchwood Street,Portland,Oregon,1982,Male,Excellent,Turning,199.44,54.22
+5cc8ed62fc13ae3b0f00013e,Rowan,Calvey,5939 Meadow Ridge Trail,Honolulu,Hawaii,1994,Male,Excellent,Breathing,153.92,49.47
+5cc8ed62fc13ae3b0f00013f,Rosabel,Eyree,8360 Victoria Way,Worcester,Massachusetts,1995,Female,Fair,Turning,166.46,77.97
+5cc8ed62fc13ae3b0f000140,Perrine,Southern,6534 Claremont Drive,Tampa,Florida,2000,Female,Good,Arm Action,126.71,85.55
+5cc8ed62fc13ae3b0f000141,Amandy,Turneaux,944 Di Loreto Plaza,Springfield,Illinois,1986,Female,Good,Arm Action,182.7,97.99
+5cc8ed62fc13ae3b0f000142,Kermie,Alcido,257 Spohn Street,Boca Raton,Florida,1986,Male,Excellent,Breathing,140.11,87.12
+5cc8ed62fc13ae3b0f000143,Ky,D'Ruel,48307 Village Drive,Oakland,California,2005,Male,Excellent,Arm Action,130.71,87.64
+5cc8ed62fc13ae3b0f000144,Melly,Dadswell,37 Division Drive,Lexington,Kentucky,1994,Female,Good,Breathing,158.22,49.93
+5cc8ed62fc13ae3b0f000145,Bron,Grundell,4 Independence Terrace,New York City,New York,1983,Male,Excellent,Breathing,167.5,89.89
+5cc8ed62fc13ae3b0f000146,Clarinda,Alfonso,1352 Hoepker Park,Worcester,Massachusetts,1999,Female,Fair,Arm Action,136.76,60.25
+5cc8ed62fc13ae3b0f000147,Curt,Moncreiff,37 Dryden Street,Largo,Florida,2000,Male,Fair,Arm Action,121.3,82.58
+5cc8ed62fc13ae3b0f000148,Sandye,Mardy,98 West Drive,Washington,District of Columbia,1980,Female,Good,Breathing,193.15,84.66
+5cc8ed62fc13ae3b0f000149,Carlynn,Scardefield,32 Fairview Hill,Lake Charles,Louisiana,1983,Female,Fair,Use of Feet,160.29,83.62
+5cc8ed62fc13ae3b0f00014a,Lara,MacArthur,82111 Gulseth Place,Lakewood,Washington,2003,Female,Good,Use of Feet,160.39,63.81
+5cc8ed62fc13ae3b0f00014b,Marne,Wragge,2034 Summerview Point,Bakersfield,California,2002,Female,Fair,Turning,121.33,87.74
+5cc8ed62fc13ae3b0f00014c,Lowell,Theobald,2 John Wall Street,Washington,District of Columbia,1995,Male,Good,Breathing,142.87,98.4
+5cc8ed62fc13ae3b0f00014d,Lizette,Croft,209 Autumn Leaf Avenue,Staten Island,New York,1996,Female,Fair,Turning,192.61,96.01
+5cc8ed62fc13ae3b0f00014e,Wyatan,Darnell,8 Darwin Park,Miami,Florida,1988,Male,Good,Breathing,162.44,83.59
+5cc8ed62fc13ae3b0f00014f,Auguste,Kermode,59 Arapahoe Circle,Tulsa,Oklahoma,1986,Female,Fair,Use of Feet,154.7,47.96
+5cc8ed62fc13ae3b0f000150,Lynnea,Graffin,3200 Loftsgordon Terrace,Harrisburg,Pennsylvania,1980,Female,Fair,Turning,214.96,52.88
+5cc8ed62fc13ae3b0f000151,Bat,Kill,6 Nova Crossing,Fort Wayne,Indiana,2001,Male,Excellent,Arm Action,156.61,67.55
+5cc8ed62fc13ae3b0f000152,Pooh,Blumfield,46583 Oak Valley Avenue,Birmingham,Alabama,1998,Female,Fair,Turning,127.0,66.3
+5cc8ed62fc13ae3b0f000153,Coriss,Brandt,8 Meadow Vale Avenue,Terre Haute,Indiana,1991,Female,Excellent,Breathing,204.92,64.96
+5cc8ed62fc13ae3b0f000154,Pren,Brame,04831 Center Plaza,Sandy,Utah,2007,Male,Fair,Breathing,179.93,59.4
+5cc8ed62fc13ae3b0f000155,Cornelia,MacGarvey,35564 Bayside Court,Colorado Springs,Colorado,1981,Female,Excellent,Breathing,203.73,61.15
+5cc8ed62fc13ae3b0f000156,Sylas,Posnett,92 Hagan Drive,Charlottesville,Virginia,1992,Male,Good,Turning,147.59,59.86
+5cc8ed62fc13ae3b0f000157,Orbadiah,Wotherspoon,35 Ronald Regan Parkway,Dallas,Texas,1980,Male,Excellent,Breathing,155.41,68.51
+5cc8ed62fc13ae3b0f000158,Isabel,Jolly,82 Shasta Junction,Dayton,Ohio,2005,Female,Excellent,Arm Action,180.95,93.63
+5cc8ed62fc13ae3b0f000159,Trude,Bumphries,4846 Sugar Crossing,Salt Lake City,Utah,1995,Female,Excellent,Use of Feet,147.22,64.71
+5cc8ed62fc13ae3b0f00015a,Gerri,Fergie,10867 Jenna Junction,Trenton,New Jersey,1995,Female,Excellent,Breathing,176.8,63.98
+5cc8ed62fc13ae3b0f00015b,Stefan,Gammade,28 Melody Terrace,Waco,Texas,1993,Male,Excellent,Turning,164.71,47.82
+5cc8ed63fc13ae3b0f00015c,Andria,Doodney,4800 Blaine Crossing,Bowie,Maryland,1999,Female,Fair,Arm Action,156.0,52.75
+5cc8ed63fc13ae3b0f00015d,Prince,Witts,07682 Spaight Street,Indianapolis,Indiana,1995,Male,Excellent,Arm Action,147.94,66.73
+5cc8ed63fc13ae3b0f00015e,Gabrila,Cherry Holme,678 Elgar Drive,Houston,Texas,2002,Female,Fair,Turning,182.15,65.57
+5cc8ed63fc13ae3b0f00015f,Francklin,Wyatt,1 Clove Circle,Los Angeles,California,2000,Male,Good,Arm Action,166.38,46.98
+5cc8ed63fc13ae3b0f000160,Willyt,Hendricks,11240 Dryden Park,Columbus,Georgia,1989,Female,Good,Use of Feet,193.57,95.06
+5cc8ed63fc13ae3b0f000161,Astrix,Achurch,7538 Kenwood Road,Richmond,Virginia,1980,Female,Good,Breathing,212.07,77.93
+5cc8ed63fc13ae3b0f000162,Tripp,Bees,942 Buell Circle,Montpelier,Vermont,2007,Male,Excellent,Arm Action,196.47,41.56
+5cc8ed63fc13ae3b0f000163,Rozalie,Friberg,450 Orin Court,Lancaster,Pennsylvania,1992,Female,Fair,Breathing,178.68,59.67
+5cc8ed63fc13ae3b0f000164,Cherice,Entwistle,39 Burning Wood Drive,Long Beach,California,2002,Female,Good,Breathing,125.97,42.31
+5cc8ed63fc13ae3b0f000165,Gisela,Sayes,5 Caliangt Avenue,Kalamazoo,Michigan,1989,Female,Excellent,Arm Action,137.32,56.62
+5cc8ed63fc13ae3b0f000166,Allyn,Goddert.sf,70447 Iowa Alley,Kansas City,Missouri,1984,Male,Fair,Breathing,128.82,56.76
+5cc8ed63fc13ae3b0f000167,Cosme,Ping,4491 Atwood Trail,Santa Fe,New Mexico,1987,Male,Excellent,Arm Action,170.96,88.43
+5cc8ed63fc13ae3b0f000168,Dominic,Bilbrook,8 Lakewood Point,Montpelier,Vermont,1995,Male,Good,Arm Action,179.4,59.19
+5cc8ed63fc13ae3b0f000169,Edithe,Osipov,92500 Roxbury Parkway,Durham,North Carolina,1988,Female,Good,Turning,188.38,60.97
+5cc8ed63fc13ae3b0f00016a,Ada,Isoldi,0547 Schurz Trail,Fairbanks,Alaska,1993,Female,Fair,Turning,188.06,68.02
+5cc8ed63fc13ae3b0f00016b,Norri,Attock,55 Vermont Lane,Jacksonville,Florida,1996,Female,Excellent,Arm Action,166.78,93.04
+5cc8ed63fc13ae3b0f00016c,Maribel,Golds,56717 Longview Parkway,North Little Rock,Arkansas,2008,Female,Excellent,Use of Feet,143.82,57.36
+5cc8ed63fc13ae3b0f00016d,Rock,Mendel,59 Continental Trail,Reston,Virginia,1992,Male,Fair,Use of Feet,148.54,94.09
+5cc8ed63fc13ae3b0f00016e,Duky,Thwaite,016 Bluestem Way,Miami,Florida,1989,Male,Good,Use of Feet,198.8,41.93
+5cc8ed63fc13ae3b0f00016f,Asia,Littrick,58 Del Sol Pass,Wilkes Barre,Pennsylvania,2004,Female,Good,Breathing,189.67,51.59
+5cc8ed63fc13ae3b0f000170,Phedra,Tolliday,1 Harbort Lane,Louisville,Kentucky,1990,Female,Fair,Arm Action,173.58,52.18
+5cc8ed63fc13ae3b0f000171,Mitzi,Plowright,9 Goodland Pass,Washington,District of Columbia,2007,Female,Excellent,Arm Action,191.89,69.11
+5cc8ed63fc13ae3b0f000172,Sonny,Boskell,7209 Grover Trail,Seattle,Washington,1988,Male,Excellent,Arm Action,127.19,77.49
+5cc8ed63fc13ae3b0f000173,Adel,Piesing,6670 Johnson Hill,Phoenix,Arizona,2000,Female,Good,Breathing,212.12,91.76
+5cc8ed63fc13ae3b0f000174,Garwood,Capner,8646 Lakewood Hill,Tacoma,Washington,1984,Male,Good,Arm Action,190.4,51.71
+5cc8ed63fc13ae3b0f000175,Geoffry,Ventura,67204 Forest Pass,San Antonio,Texas,1987,Male,Good,Arm Action,158.85,80.18
+5cc8ed63fc13ae3b0f000176,Sherri,Rickardes,96748 Calypso Trail,Anderson,South Carolina,1988,Female,Good,Arm Action,177.73,55.35
+5cc8ed63fc13ae3b0f000177,Orton,Damiata,141 Hauk Way,Phoenix,Arizona,1998,Male,Excellent,Breathing,188.24,70.19
+5cc8ed63fc13ae3b0f000178,Jeno,Vose,163 Russell Place,Albany,New York,2005,Male,Good,Use of Feet,189.92,84.19
+5cc8ed63fc13ae3b0f000179,Emera,Whitehurst,1 Nevada Park,Wichita,Kansas,2007,Female,Excellent,Use of Feet,148.52,93.62
+5cc8ed63fc13ae3b0f00017a,Karissa,Chesterfield,2172 3rd Terrace,Baton Rouge,Louisiana,2006,Female,Good,Breathing,200.27,94.65
+5cc8ed63fc13ae3b0f00017b,Tessi,Lafay,2395 Division Way,Terre Haute,Indiana,1990,Female,Excellent,Use of Feet,160.34,78.83
+5cc8ed63fc13ae3b0f00017c,Fernande,Crystal,63186 Rigney Avenue,Youngstown,Ohio,1980,Female,Excellent,Use of Feet,141.66,74.15
+5cc8ed63fc13ae3b0f00017d,Elyssa,Beevers,0772 Bowman Center,Mount Vernon,New York,1998,Female,Good,Arm Action,148.69,48.9
+5cc8ed63fc13ae3b0f00017e,Leontine,Reiner,7227 Anhalt Center,Pueblo,Colorado,1991,Female,Excellent,Arm Action,168.3,83.82
+5cc8ed63fc13ae3b0f00017f,Templeton,Maus,75 Dapin Drive,,,1983,Male,,,213.9,62.19
+5cc8ed63fc13ae3b0f000180,Darla,Sorel,80865 Warbler Court,Atlanta,Georgia,1987,Female,Excellent,Breathing,120.81,66.42
+5cc8ed63fc13ae3b0f000181,Correy,Trodden,341 Logan Court,Washington,District of Columbia,1993,Female,Excellent,Turning,129.05,99.09
+5cc8ed63fc13ae3b0f000182,Julita,Pikesley,548 Pine View Lane,New Orleans,Louisiana,1984,Female,Excellent,Breathing,157.38,81.99
+5cc8ed63fc13ae3b0f000183,Adriano,Walton,59 Fisk Court,White Plains,New York,1995,Male,Good,Turning,147.83,84.03
+5cc8ed63fc13ae3b0f000184,Cassandra,Bletcher,546 Manitowish Plaza,Honolulu,Hawaii,1985,Female,Fair,Turning,140.02,93.46
+5cc8ed63fc13ae3b0f000185,Alina,Bresson,72217 Northfield Place,Phoenix,Arizona,2006,Female,Excellent,Arm Action,171.1,56.94
+5cc8ed63fc13ae3b0f000186,Juditha,Ovett,5 Lakewood Gardens Circle,Washington,District of Columbia,2002,Female,Excellent,Turning,155.8,87.06
+5cc8ed63fc13ae3b0f000187,Gordon,Letixier,4 Blaine Lane,Gaithersburg,Maryland,1983,Male,Good,Turning,199.79,80.24
+5cc8ed63fc13ae3b0f000188,Erny,Stoak,87 Everett Crossing,Carol Stream,Illinois,1980,Male,Good,Use of Feet,144.89,93.51
+5cc8ed63fc13ae3b0f000189,Alberik,Springthorpe,96 Marquette Avenue,Jackson,Mississippi,2004,Male,Fair,Breathing,123.48,89.68
+5cc8ed63fc13ae3b0f00018a,Zea,Danford,5535 Continental Circle,Brooklyn,New York,1984,Female,Good,Arm Action,126.27,53.47
+5cc8ed63fc13ae3b0f00018b,Garry,Petel,3 Southridge Alley,El Paso,Texas,1985,Male,Fair,Arm Action,154.83,52.99
+5cc8ed63fc13ae3b0f00018c,Cordie,Garden,38 Mccormick Court,Greensboro,North Carolina,1989,Male,Fair,Breathing,190.3,91.01
+5cc8ed63fc13ae3b0f00018d,Annissa,Jantzen,19 Hollow Ridge Plaza,Portland,Oregon,2003,Female,Good,Turning,193.54,80.85
+5cc8ed63fc13ae3b0f00018e,Arin,Dimnage,133 Hollow Ridge Plaza,Cincinnati,Ohio,1993,Male,Excellent,Breathing,132.3,61.82
+5cc8ed63fc13ae3b0f00018f,Gannon,Lanmeid,45 Graedel Lane,Akron,Ohio,1980,Male,Fair,Use of Feet,125.02,53.09
+5cc8ed63fc13ae3b0f000190,Odey,Shakespear,79008 Caliangt Crossing,Topeka,Kansas,2008,Male,Excellent,Use of Feet,150.45,87.22
+5cc8ed63fc13ae3b0f000191,Kesley,Jimpson,76 Hanson Plaza,Lehigh Acres,Florida,1998,Female,Excellent,Arm Action,131.75,64.96
+5cc8ed63fc13ae3b0f000192,Bidget,Denning,3 3rd Trail,Charlotte,North Carolina,1993,Female,Fair,Breathing,193.97,47.29
+5cc8ed63fc13ae3b0f000193,Marchall,Sore,57501 Anzinger Alley,Provo,Utah,1992,Male,Excellent,Breathing,149.12,96.95
+5cc8ed63fc13ae3b0f000194,Elladine,Sarch,1260 Gale Terrace,Baton Rouge,Louisiana,1992,Female,Good,Use of Feet,190.97,97.41
+5cc8ed63fc13ae3b0f000195,Hertha,Hourahan,264 Michigan Crossing,Baton Rouge,Louisiana,2008,Female,Excellent,Turning,186.2,44.38
+5cc8ed63fc13ae3b0f000196,Lemmy,Fosh,660 Atwood Drive,Austin,Texas,1995,Male,Good,Use of Feet,140.11,69.58
+5cc8ed63fc13ae3b0f000197,Felisha,Yeomans,42566 Shopko Park,New York City,New York,2008,Female,Good,Breathing,187.15,54.62
+5cc8ed63fc13ae3b0f000198,Gertruda,Sebborn,503 Summit Alley,Lakeland,Florida,1999,Female,Fair,Use of Feet,205.04,78.06
+5cc8ed63fc13ae3b0f000199,Maggee,Lightbowne,7193 Independence Alley,Abilene,Texas,1989,Female,Fair,Turning,209.74,42.62
+5cc8ed63fc13ae3b0f00019a,Nolie,Pirdy,344 Talisman Circle,Fort Worth,Texas,1985,Female,Good,Turning,130.68,94.76
+5cc8ed63fc13ae3b0f00019b,Dyan,Cyson,8548 Everett Street,Detroit,Michigan,1993,Female,Excellent,Turning,214.2,98.55
+5cc8ed63fc13ae3b0f00019c,Pierre,Lukes,8734 Rusk Avenue,New York City,New York,2003,Male,Excellent,Breathing,176.23,45.68
+5cc8ed63fc13ae3b0f00019d,Margit,Shearme,592 Pankratz Road,Houston,Texas,1984,Female,Good,Use of Feet,208.17,45.74
+5cc8ed63fc13ae3b0f00019e,Muhammad,Cattini,86 Browning Plaza,Laurel,Maryland,1985,Male,Fair,Breathing,170.21,87.22
+5cc8ed63fc13ae3b0f00019f,Darby,Swalteridge,19141 Service Street,Missoula,Montana,2001,Male,Fair,Turning,145.53,41.41
+5cc8ed63fc13ae3b0f0001a0,Gale,Folger,77327 Marcy Park,Los Angeles,California,2005,Female,Good,Use of Feet,173.95,85.45
+5cc8ed63fc13ae3b0f0001a1,Farley,Lickorish,548 Park Meadow Alley,Tucson,Arizona,1989,Male,Excellent,Use of Feet,185.02,40.2
+5cc8ed63fc13ae3b0f0001a2,Emmye,Gosney,6202 Rieder Center,Buffalo,New York,1999,Female,Excellent,Arm Action,193.73,56.35
+5cc8ed63fc13ae3b0f0001a3,Alidia,Gibbard,8172 Cottonwood Point,Shawnee Mission,Kansas,1988,Female,Excellent,Breathing,147.96,82.74
+5cc8ed63fc13ae3b0f0001a4,Helyn,Vasilyevski,3921 Bayside Street,Tucson,Arizona,2003,Female,Good,Use of Feet,190.63,45.01
+5cc8ed63fc13ae3b0f0001a5,Ottilie,Abbitt,95 Elgar Trail,Houston,Texas,1992,Female,Excellent,Arm Action,137.09,60.85
+5cc8ed63fc13ae3b0f0001a6,Giacobo,Gemson,48 Algoma Parkway,Louisville,Kentucky,1999,Male,Fair,Arm Action,123.05,52.84
+5cc8ed63fc13ae3b0f0001a7,Lilith,Clethro,076 Elka Court,Salt Lake City,Utah,2004,Female,Excellent,Arm Action,124.83,93.1
+5cc8ed63fc13ae3b0f0001a8,Abbot,Clouter,9547 Bluejay Way,Paterson,New Jersey,2000,Male,Fair,Use of Feet,167.43,48.33
+5cc8ed63fc13ae3b0f0001a9,Flory,Janiak,56191 Hanover Lane,Hartford,Connecticut,1988,Male,Fair,Breathing,140.06,64.0
+5cc8ed63fc13ae3b0f0001aa,Millie,Lott,7659 Grover Parkway,Kansas City,Missouri,1994,Female,Fair,Turning,181.48,74.59
+5cc8ed63fc13ae3b0f0001ab,Petr,Taplow,3 Hollow Ridge Way,Helena,Montana,1997,Male,Good,Turning,159.4,97.9
+5cc8ed63fc13ae3b0f0001ac,Carine,Meineking,73 Starling Junction,Austin,Texas,1986,Female,Good,Turning,194.9,40.26
+5cc8ed63fc13ae3b0f0001ad,Deane,Garken,5126 Rieder Drive,Colorado Springs,Colorado,1993,Male,Excellent,Use of Feet,146.73,88.46
+5cc8ed63fc13ae3b0f0001ae,Elsbeth,Writtle,272 Roth Point,Whittier,California,2005,Female,Fair,Arm Action,179.3,64.61
+5cc8ed63fc13ae3b0f0001af,Andrey,Gleder,745 Magdeline Circle,Atlanta,Georgia,2000,Male,Excellent,Turning,176.43,94.01
+5cc8ed63fc13ae3b0f0001b0,Dewie,Rustadge,8 Buena Vista Place,Mobile,Alabama,2002,Male,Fair,Arm Action,213.81,57.25
+5cc8ed63fc13ae3b0f0001b1,Dal,Drewett,66822 Butterfield Road,Lexington,Kentucky,1987,Male,Excellent,Breathing,191.79,97.57
+5cc8ed63fc13ae3b0f0001b2,Neda,Gentiry,16930 Milwaukee Avenue,Raleigh,North Carolina,2005,Female,Fair,Breathing,155.48,87.51
+5cc8ed63fc13ae3b0f0001b3,Kori,Bowman,8320 Old Shore Lane,Wilkes Barre,Pennsylvania,1984,Female,Good,Use of Feet,190.29,91.99
+5cc8ed63fc13ae3b0f0001b4,Hermy,Doerr,5 Kinsman Junction,Duluth,Georgia,2001,Male,Excellent,Turning,185.55,74.14
+5cc8ed63fc13ae3b0f0001b5,Nikki,Wyllis,8 Mesta Lane,Las Vegas,Nevada,1998,Male,Excellent,Turning,201.55,61.11
+5cc8ed63fc13ae3b0f0001b6,Gnni,Lovie,8656 Lyons Hill,Fresno,California,1999,Female,Fair,Use of Feet,197.78,68.58
+5cc8ed63fc13ae3b0f0001b7,Vladamir,Buddleigh,551 Towne Point,Paterson,New Jersey,1988,Male,Good,Arm Action,196.8,66.7
+5cc8ed63fc13ae3b0f0001b8,Adriane,Leggon,56256 Jana Hill,Aurora,Illinois,1983,Female,Good,Turning,123.7,41.12
+5cc8ed63fc13ae3b0f0001b9,Candra,Gare,3 Marcy Road,,,1998,Female,,,171.25,80.75
+5cc8ed63fc13ae3b0f0001ba,Biddie,Le Gall,9857 Schiller Parkway,New Orleans,Louisiana,2007,Female,Good,Turning,212.94,55.75
+5cc8ed63fc13ae3b0f0001bb,Tanny,Charrette,2 Claremont Road,Tyler,Texas,1982,Male,Excellent,Breathing,120.44,49.69
+5cc8ed63fc13ae3b0f0001bc,Xerxes,Lapham,44 Brickson Park Avenue,Louisville,Kentucky,2002,Male,Fair,Use of Feet,210.6,63.34
+5cc8ed63fc13ae3b0f0001bd,Carolee,Reeson,8321 Hooker Avenue,Lubbock,Texas,1983,Female,Excellent,Turning,207.41,81.13
+5cc8ed63fc13ae3b0f0001be,Neall,Ianilli,345 Charing Cross Terrace,Denver,Colorado,2005,Male,Fair,Arm Action,196.64,43.03
+5cc8ed63fc13ae3b0f0001bf,Raimundo,Hotson,8 Pennsylvania Alley,Carson City,Nevada,1996,Male,Fair,Turning,156.29,63.92
+5cc8ed63fc13ae3b0f0001c0,Reggis,Karolyi,79239 Starling Plaza,Raleigh,North Carolina,2005,Male,Fair,Turning,181.59,59.67
+5cc8ed63fc13ae3b0f0001c1,Garey,Iggo,06896 Gerald Court,Montgomery,Alabama,2003,Male,Good,Arm Action,152.65,48.99
+5cc8ed63fc13ae3b0f0001c2,Elfreda,Symmers,7230 Maple Wood Junction,Fresno,California,1999,Female,Excellent,Arm Action,183.82,58.62
+5cc8ed63fc13ae3b0f0001c3,Pietro,Alliberton,02556 Knutson Place,Washington,District of Columbia,1989,Male,Excellent,Arm Action,136.64,53.46
+5cc8ed63fc13ae3b0f0001c4,Berke,Pococke,3 8th Center,Charleston,West Virginia,1997,Male,Fair,Use of Feet,136.85,45.32
+5cc8ed63fc13ae3b0f0001c5,Seth,Ledrane,791 Little Fleur Road,Olympia,Washington,1983,Male,Fair,Use of Feet,191.46,64.54
+5cc8ed63fc13ae3b0f0001c6,Aggi,Erlam,72842 Clarendon Alley,Roanoke,Virginia,1996,Female,Fair,Breathing,168.54,89.83
+5cc8ed63fc13ae3b0f0001c7,Ladonna,Palmby,1195 Coolidge Trail,San Francisco,California,1988,Female,Good,Breathing,201.28,94.71
+5cc8ed63fc13ae3b0f0001c8,Yasmeen,Prandi,0 Pleasure Point,Washington,District of Columbia,1992,Female,Good,Breathing,130.28,82.44
+5cc8ed63fc13ae3b0f0001c9,Gaby,Emons,541 Forest Dale Center,Fort Lauderdale,Florida,1996,Female,Excellent,Turning,201.73,90.32
+5cc8ed63fc13ae3b0f0001ca,Mar,Agate,4 Dorton Lane,Boulder,Colorado,1995,Male,Fair,Turning,147.69,45.17
+5cc8ed63fc13ae3b0f0001cb,Charleen,Showalter,46 Sundown Circle,Omaha,Nebraska,1992,Female,Excellent,Use of Feet,123.18,95.26
+5cc8ed63fc13ae3b0f0001cc,Daron,Elner,8 Hauk Plaza,El Paso,Texas,1996,Female,Excellent,Arm Action,164.18,72.84
+5cc8ed63fc13ae3b0f0001cd,Lavinie,Coggen,81 Monica Pass,Albany,New York,1994,Female,Good,Turning,136.86,42.49
+5cc8ed63fc13ae3b0f0001ce,Kimberlyn,English,39174 Homewood Park,Albany,Georgia,1982,Female,Excellent,Use of Feet,213.71,67.07
+5cc8ed63fc13ae3b0f0001cf,Toby,Maudett,56 Vera Plaza,Los Angeles,California,1998,Male,Fair,Breathing,192.46,64.89
+5cc8ed63fc13ae3b0f0001d0,Alfonse,Badcock,6901 Hanson Alley,Jacksonville,Florida,1986,Male,Excellent,Use of Feet,148.3,92.14
+5cc8ed63fc13ae3b0f0001d1,Jake,Davidovicz,9368 Brentwood Hill,Saint Petersburg,Florida,1987,Male,Good,Breathing,160.05,84.9
+5cc8ed63fc13ae3b0f0001d2,Frances,Radbone,669 Hauk Park,Dayton,Ohio,1992,Female,Fair,Arm Action,129.64,45.27
+5cc8ed63fc13ae3b0f0001d3,Levey,Shaefer,9 Meadow Valley Parkway,New Castle,Pennsylvania,1987,Male,Excellent,Use of Feet,206.06,77.07
+5cc8ed63fc13ae3b0f0001d4,Christos,Payton,074 Carioca Road,Atlanta,Georgia,2000,Male,Fair,Breathing,208.37,44.96
+5cc8ed63fc13ae3b0f0001d5,Arlyn,Lunny,74798 Michigan Place,Stockton,California,2004,Female,Fair,Use of Feet,205.16,79.46
+5cc8ed63fc13ae3b0f0001d6,Cyril,Reihill,0443 Park Meadow Point,San Diego,California,1996,Male,Fair,Turning,202.24,69.58
+5cc8ed63fc13ae3b0f0001d7,Marne,Brounfield,32 Pawling Center,Los Angeles,California,1980,Female,Fair,Arm Action,131.28,61.0
+5cc8ed63fc13ae3b0f0001d8,Shepard,Spratley,7189 Fair Oaks Street,Dallas,Texas,1987,Male,Excellent,Use of Feet,188.07,89.82
+5cc8ed63fc13ae3b0f0001d9,Kelsey,Leslie,9158 North Alley,Stockton,California,1999,Female,Excellent,Arm Action,141.46,93.32
+5cc8ed63fc13ae3b0f0001da,Roderic,Rihosek,6 South Circle,Portsmouth,New Hampshire,2005,Male,Fair,Arm Action,137.5,82.21
+5cc8ed63fc13ae3b0f0001db,Elihu,Hatfield,41 Sauthoff Crossing,New Castle,Pennsylvania,1998,Male,Good,Breathing,197.22,55.16
+5cc8ed63fc13ae3b0f0001dc,Mara,Pumphrey,4 Arrowood Place,Washington,District of Columbia,2002,Female,Fair,Breathing,191.74,41.29
+5cc8ed63fc13ae3b0f0001dd,Joline,Jardein,132 Melrose Park,Miami Beach,Florida,1983,Female,Fair,Arm Action,121.59,72.89
+5cc8ed63fc13ae3b0f0001de,Piggy,Sallery,87805 Farmco Trail,Oklahoma City,Oklahoma,2007,Male,Fair,Breathing,213.28,65.96
+5cc8ed63fc13ae3b0f0001df,Elka,Vassar,7 American Street,Newport Beach,California,2006,Female,Fair,Turning,127.27,59.16
+5cc8ed63fc13ae3b0f0001e0,Dore,Blonden,07206 Utah Junction,Vero Beach,Florida,2000,Male,Good,Arm Action,199.14,83.65
+5cc8ed63fc13ae3b0f0001e1,Dory,Lowndes,4 4th Drive,South Bend,Indiana,1987,Male,Excellent,Use of Feet,144.71,81.21
+5cc8ed63fc13ae3b0f0001e2,Annalee,Volonte,4 Troy Trail,Knoxville,Tennessee,2000,Female,Good,Arm Action,179.75,83.54
+5cc8ed63fc13ae3b0f0001e3,Stephi,Hansard,54122 Sachtjen Hill,Shawnee Mission,Kansas,1984,Female,Good,Use of Feet,173.44,61.73
+5cc8ed63fc13ae3b0f0001e4,Marguerite,Gerardin,6990 Towne Drive,Stockton,California,1988,Female,Fair,Breathing,121.99,94.19
+5cc8ed63fc13ae3b0f0001e5,Raphael,De Beneditti,7 Hovde Center,Baltimore,Maryland,1999,Male,Good,Arm Action,139.86,64.43
+5cc8ed63fc13ae3b0f0001e6,Renell,Skep,8978 Dexter Terrace,South Bend,Indiana,1990,Female,Excellent,Arm Action,166.7,90.65
+5cc8ed63fc13ae3b0f0001e7,Alano,Steeden,86 Ryan Center,Tallahassee,Florida,2004,Male,Good,Arm Action,191.35,47.01
+5cc8ed63fc13ae3b0f0001e8,Lynnell,Newling,842 Tennyson Lane,Baltimore,Maryland,2003,Female,Excellent,Turning,200.29,41.59
+5cc8ed63fc13ae3b0f0001e9,Seline,Kidd,6 Summerview Hill,Lincoln,Nebraska,1984,Female,Good,Breathing,129.88,54.98
+5cc8ed63fc13ae3b0f0001ea,Cleopatra,Bilsland,58876 Oneill Plaza,Montgomery,Alabama,1985,Female,Fair,Turning,140.31,48.1
+5cc8ed63fc13ae3b0f0001eb,Brock,Klicher,9 Washington Plaza,Orange,California,2001,Male,Good,Arm Action,163.14,79.12
+5cc8ed63fc13ae3b0f0001ec,Kennedy,Burden,7 Packers Trail,Migrate,Kentucky,2004,Male,Excellent,Breathing,198.24,98.4
+5cc8ed63fc13ae3b0f0001ed,Ethelind,Fullerton,44420 Sommers Street,Santa Ana,California,2004,Female,Good,Turning,205.53,48.95
+5cc8ed63fc13ae3b0f0001ee,Marys,Mendes,89 Mcbride Street,Lafayette,Indiana,1984,Female,Good,Arm Action,171.77,85.11
+5cc8ed63fc13ae3b0f0001ef,Travers,MacCaghan,1832 Granby Avenue,Saint Louis,Missouri,2003,Male,Good,Breathing,163.7,48.44
+5cc8ed63fc13ae3b0f0001f0,Ermin,Pittman,9 Clyde Gallagher Road,Huntington,West Virginia,1994,Male,Excellent,Breathing,121.72,72.85
+5cc8ed63fc13ae3b0f0001f1,Chelsie,Trueman,66740 Knutson Lane,Great Neck,New York,1986,Female,Good,Breathing,203.44,87.45
+5cc8ed63fc13ae3b0f0001f2,Imogen,Lagneaux,91 Roth Point,Vancouver,Washington,1993,Female,Fair,Turning,164.56,44.44
+5cc8ed63fc13ae3b0f0001f3,Conn,Petrazzi,1108 Lindbergh Pass,Charlotte,North Carolina,2005,Male,Good,Arm Action,188.33,48.83
+5cc8ed63fc13ae3b0f0001f4,Fonzie,Matevushev,54494 1st Way,Minneapolis,Minnesota,1980,Male,Excellent,Arm Action,135.83,90.98
+5cc8ed63fc13ae3b0f0001f5,Pat,Bowhey,40960 Waywood Junction,Detroit,Michigan,1986,Male,Good,Breathing,160.27,69.74
+5cc8ed63fc13ae3b0f0001f6,Erena,Rowlands,25213 Grayhawk Alley,Duluth,Minnesota,1987,Female,Excellent,Breathing,125.76,81.82
+5cc8ed63fc13ae3b0f0001f7,Langston,Rubinsky,15 Loomis Road,Orange,California,1983,Male,Excellent,Use of Feet,120.52,47.66
+5cc8ed63fc13ae3b0f0001f8,Sherry,Janodet,150 Bultman Plaza,Santa Fe,New Mexico,2004,Female,Good,Breathing,210.58,92.0
+5cc8ed63fc13ae3b0f0001f9,Allister,Mergue,7 Fieldstone Road,Fresno,California,1987,Male,Fair,Arm Action,167.65,78.51
+5cc8ed63fc13ae3b0f0001fa,Andrus,Jean,96 Northwestern Court,Brooklyn,New York,1981,Male,Fair,Turning,190.46,88.64
+5cc8ed63fc13ae3b0f0001fb,Manfred,O'Doogan,5916 Fisk Crossing,Lexington,Kentucky,1989,Male,Excellent,Use of Feet,192.68,63.61
+5cc8ed63fc13ae3b0f0001fc,Carie,Whitehurst,75491 Buhler Plaza,Orlando,Florida,2001,Female,Excellent,Turning,197.4,54.48
+5cc8ed63fc13ae3b0f0001fd,Bart,Bwy,4 Waubesa Point,Phoenix,Arizona,1988,Male,Good,Arm Action,150.27,44.04
+5cc8ed63fc13ae3b0f0001fe,Anna,Daniell,36 Alpine Park,Cincinnati,Ohio,1981,Female,Excellent,Breathing,202.19,70.01
+5cc8ed63fc13ae3b0f0001ff,Alaster,Stigers,491 David Pass,Dayton,Ohio,2005,Male,Fair,Arm Action,182.52,78.46
+5cc8ed63fc13ae3b0f000200,Derick,Zamora,5401 Jana Parkway,Oakland,California,1984,Male,Excellent,Use of Feet,179.69,63.75
+5cc8ed63fc13ae3b0f000201,Michaeline,Fuentez,69 Calypso Crossing,Atlanta,Georgia,1985,Female,Good,Arm Action,129.72,58.03
+5cc8ed63fc13ae3b0f000202,Lock,Berkeley,39 Declaration Circle,Mc Keesport,Pennsylvania,2007,Male,Good,Arm Action,202.22,55.26
+5cc8ed63fc13ae3b0f000203,Alick,Yantsurev,9368 Transport Pass,Mobile,Alabama,2003,Male,Fair,Turning,156.31,53.31
+5cc8ed63fc13ae3b0f000204,Enid,Weller,32 Mayer Place,Denver,Colorado,1990,Female,Fair,Arm Action,183.35,71.27
+5cc8ed63fc13ae3b0f000205,Waylan,Blasik,6 5th Circle,Fort Wayne,Indiana,1993,Male,Excellent,Turning,159.33,65.82
+5cc8ed63fc13ae3b0f000206,Reg,Beckwith,7 Almo Road,Chicago,Illinois,1987,Male,Excellent,Use of Feet,191.81,82.15
+5cc8ed63fc13ae3b0f000207,Tedd,Arnopp,078 Brentwood Point,Kansas City,Missouri,1984,Male,Good,Breathing,163.53,85.2
+5cc8ed63fc13ae3b0f000208,Peta,Wishart,3055 Eagle Crest Drive,,,2005,Female,,,202.41,41.24
+5cc8ed63fc13ae3b0f000209,Waiter,Rosas,58249 Maryland Drive,San Antonio,Texas,2007,Male,Fair,Breathing,147.79,68.69
+5cc8ed63fc13ae3b0f00020a,Wendy,Pollington,368 Stuart Place,Houston,Texas,1994,Female,Good,Arm Action,168.89,48.13
+5cc8ed63fc13ae3b0f00020b,Wendi,Perell,49376 Roth Way,Silver Spring,Maryland,2007,Female,Good,Arm Action,128.96,48.29
+5cc8ed63fc13ae3b0f00020c,Goldina,Silliman,80 Duke Alley,Phoenix,Arizona,1980,Female,Excellent,Turning,198.61,49.84
+5cc8ed63fc13ae3b0f00020d,Aldus,Elnaugh,08 Clyde Gallagher Place,Trenton,New Jersey,1988,Male,Good,Turning,153.62,44.43
+5cc8ed63fc13ae3b0f00020e,Adelle,Liversidge,94 Mallory Way,Albuquerque,New Mexico,2008,Female,Fair,Use of Feet,178.02,58.06
+5cc8ed63fc13ae3b0f00020f,Rhonda,Jumel,86445 Mosinee Way,San Jose,California,1998,Female,Excellent,Arm Action,125.19,61.89
+5cc8ed63fc13ae3b0f000210,Pearle,Jochen,86347 High Crossing Way,Pittsburgh,Pennsylvania,2003,Female,Good,Use of Feet,138.39,56.66
+5cc8ed63fc13ae3b0f000211,Tann,MacAfee,2933 Rieder Alley,Manassas,Virginia,2004,Male,Good,Turning,205.0,96.82
+5cc8ed63fc13ae3b0f000212,Jonathan,Hirsthouse,17 Tennessee Lane,Hartford,Connecticut,1992,Male,Excellent,Breathing,194.72,89.89
+5cc8ed63fc13ae3b0f000213,Peder,Alderwick,0273 Division Crossing,Fullerton,California,1990,Male,Excellent,Turning,149.3,65.91
+5cc8ed63fc13ae3b0f000214,Kent,Itzhak,364 Rigney Park,Bismarck,North Dakota,1982,Male,Good,Turning,160.73,76.49
+5cc8ed63fc13ae3b0f000215,Donny,Astell,7303 Dixon Junction,Inglewood,California,2005,Female,Fair,Use of Feet,151.2,59.52
+5cc8ed63fc13ae3b0f000216,Dallon,Kamenar,1 Kropf Hill,Pomona,California,1998,Male,Excellent,Arm Action,151.93,86.9
+5cc8ed63fc13ae3b0f000217,Palmer,Spikings,94484 Blaine Street,Phoenix,Arizona,2001,Male,Excellent,Turning,212.61,50.91
+5cc8ed63fc13ae3b0f000218,Valene,Forsdike,892 Kensington Alley,Houston,Texas,2008,Female,Fair,Use of Feet,157.72,81.41
+5cc8ed63fc13ae3b0f000219,Jarad,Angear,9630 Pierstorff Trail,Washington,District of Columbia,1982,Male,Good,Turning,131.82,99.11
+5cc8ed63fc13ae3b0f00021a,Eileen,Moffat,9 Forster Junction,New York City,New York,1984,Female,Fair,Turning,196.35,55.08
+5cc8ed63fc13ae3b0f00021b,Winonah,Niles,409 Corben Junction,Fresno,California,2002,Female,Good,Use of Feet,169.32,50.8
+5cc8ed63fc13ae3b0f00021c,Nester,Hunnable,80 Roth Court,Sioux Falls,South Dakota,1990,Male,Fair,Breathing,207.17,88.85
+5cc8ed63fc13ae3b0f00021d,Kipper,Greenrodd,74473 Veith Way,Zephyrhills,Florida,1988,Male,Excellent,Turning,125.34,55.98
+5cc8ed63fc13ae3b0f00021e,Filberto,Covendon,9 Waywood Point,Lexington,Kentucky,1997,Male,Fair,Breathing,185.5,48.48
+5cc8ed63fc13ae3b0f00021f,Michal,McCane,77605 Judy Terrace,Washington,District of Columbia,1981,Male,Excellent,Arm Action,144.45,74.96
+5cc8ed63fc13ae3b0f000220,Christiane,Petruszka,9051 Ridgeview Street,Anniston,Alabama,1989,Female,Excellent,Turning,177.9,94.8
+5cc8ed63fc13ae3b0f000221,Stern,Kiss,9 Eastwood Avenue,Houston,Texas,1997,Male,Excellent,Use of Feet,127.28,98.14
+5cc8ed63fc13ae3b0f000222,Clarita,Verrillo,9 Mariners Cove Lane,Spokane,Washington,1991,Female,Excellent,Use of Feet,171.62,52.43
+5cc8ed63fc13ae3b0f000223,Pierette,Tamblyn,249 Amoth Terrace,New York City,New York,1988,Female,Fair,Arm Action,167.31,69.39
+5cc8ed63fc13ae3b0f000224,Courtnay,Birdwhistle,607 Westport Way,Charleston,West Virginia,1996,Female,Fair,Use of Feet,124.01,64.13
+5cc8ed63fc13ae3b0f000225,Carmencita,Beane,1 Carberry Center,Honolulu,Hawaii,1998,Female,Fair,Use of Feet,166.08,59.45
+5cc8ed63fc13ae3b0f000226,Padgett,Mangan,359 Surrey Trail,Dayton,Ohio,1990,Male,Excellent,Turning,212.58,58.15
+5cc8ed63fc13ae3b0f000227,Portia,Navaro,121 Hooker Place,New York City,New York,1985,Female,Excellent,Breathing,148.59,75.57
+5cc8ed63fc13ae3b0f000228,Yorgos,Janz,42339 Northport Crossing,Fort Worth,Texas,1983,Male,Good,Arm Action,189.02,74.43
+5cc8ed63fc13ae3b0f000229,Nichols,Lovekin,02861 Emmet Place,Fort Wayne,Indiana,1999,Male,Fair,Arm Action,120.83,41.22
+5cc8ed63fc13ae3b0f00022a,Vera,Boards,891 Leroy Point,Huntington,West Virginia,2001,Female,Excellent,Turning,207.61,61.81
+5cc8ed63fc13ae3b0f00022b,Cecil,Walentynowicz,32 Trailsway Drive,Reston,Virginia,1998,Female,Excellent,Breathing,148.49,89.06
+5cc8ed63fc13ae3b0f00022c,Tim,Ferencz,1651 Nobel Avenue,Mobile,Alabama,1994,Female,Good,Arm Action,213.38,67.13
+5cc8ed63fc13ae3b0f00022d,Anica,Raittie,2 Lakeland Street,Amarillo,Texas,1991,Female,Excellent,Use of Feet,154.95,55.07
+5cc8ed63fc13ae3b0f00022e,Maressa,Brokenbrow,2959 Grover Place,High Point,North Carolina,2002,Female,Good,Use of Feet,183.84,60.49
+5cc8ed63fc13ae3b0f00022f,Clark,Cousans,72 Evergreen Road,San Antonio,Texas,2002,Male,Excellent,Use of Feet,198.68,89.78
+5cc8ed63fc13ae3b0f000230,Peggi,McGaugan,6 Maryland Hill,El Paso,Texas,2002,Female,Fair,Arm Action,128.78,89.71
+5cc8ed63fc13ae3b0f000231,Ripley,Hughlin,2729 Loftsgordon Way,Chicago,Illinois,2002,Male,Excellent,Use of Feet,192.83,66.93
+5cc8ed63fc13ae3b0f000232,Faythe,Pawfoot,76898 Colorado Junction,Chicago,Illinois,1980,Female,Excellent,Use of Feet,148.7,79.76
+5cc8ed63fc13ae3b0f000233,Bren,Dobey,47495 Garrison Park,Durham,North Carolina,2006,Male,Good,Arm Action,212.31,61.76
+5cc8ed63fc13ae3b0f000234,Vlad,Ketch,74 Jenna Hill,Warren,Michigan,2007,Male,Good,Turning,171.5,48.86
+5cc8ed63fc13ae3b0f000235,Jobye,Maides,48813 Stone Corner Hill,West Palm Beach,Florida,1993,Female,Fair,Breathing,127.86,67.12
+5cc8ed63fc13ae3b0f000236,Annabell,Aries,5 Nelson Pass,Washington,District of Columbia,1982,Female,Good,Breathing,178.92,71.75
+5cc8ed63fc13ae3b0f000237,Chantalle,Salzburger,5 Jana Drive,Fort Wayne,Indiana,1985,Female,Good,Use of Feet,188.19,63.87
+5cc8ed63fc13ae3b0f000238,Herminia,Bastie,102 Vahlen Center,Camden,New Jersey,2001,Female,Good,Use of Feet,156.84,62.06
+5cc8ed63fc13ae3b0f000239,Tymon,Teece,03 Gateway Hill,Savannah,Georgia,2006,Male,Fair,Breathing,179.85,54.77
+5cc8ed63fc13ae3b0f00023a,Malia,Mulvenna,1 Crescent Oaks Park,Cumming,Georgia,1999,Female,Good,Use of Feet,173.23,98.38
+5cc8ed63fc13ae3b0f00023b,Alisha,Cubbit,063 Welch Junction,Pittsburgh,Pennsylvania,1993,Female,Excellent,Turning,151.36,88.84
+5cc8ed63fc13ae3b0f00023c,Rasia,Azemar,329 Crest Line Way,Canton,Ohio,2005,Female,Good,Arm Action,141.41,79.7
+5cc8ed63fc13ae3b0f00023d,Jolynn,Jennery,43 Fairfield Lane,San Jose,California,1992,Female,Good,Breathing,174.32,82.3
+5cc8ed63fc13ae3b0f00023e,Arlinda,Overall,110 Nova Point,Corpus Christi,Texas,1990,Female,Fair,Arm Action,164.9,54.03
+5cc8ed63fc13ae3b0f00023f,Lindi,Allebone,7 Corry Road,Simi Valley,California,1993,Female,Fair,Arm Action,180.6,84.63
+5cc8ed63fc13ae3b0f000240,Ruthy,McAnalley,9 Mccormick Center,Pittsburgh,Pennsylvania,1997,Female,Good,Arm Action,147.19,93.95
+5cc8ed63fc13ae3b0f000241,Maudie,Dunbobin,03461 New Castle Center,Philadelphia,Pennsylvania,1993,Female,Good,Use of Feet,192.62,47.86
+5cc8ed63fc13ae3b0f000242,Son,MacEntee,26550 Corscot Point,Lubbock,Texas,2004,Male,Excellent,Turning,183.49,45.67
+5cc8ed63fc13ae3b0f000243,Neila,Cudd,53073 Bay Court,Lincoln,Nebraska,1983,Female,Excellent,Breathing,212.8,42.32
+5cc8ed63fc13ae3b0f000244,Daven,Fullegar,59 Orin Place,Irving,Texas,1995,Male,Good,Arm Action,212.45,80.16
+5cc8ed63fc13ae3b0f000245,Sascha,Attride,3333 3rd Trail,Palatine,Illinois,1992,Female,Excellent,Breathing,123.57,70.45
+5cc8ed63fc13ae3b0f000246,Nona,Osorio,402 Farwell Place,Punta Gorda,Florida,1989,Female,Excellent,Use of Feet,149.67,62.29
+5cc8ed63fc13ae3b0f000247,Salmon,Breazeall,76 Hallows Parkway,Santa Barbara,California,1996,Male,Good,Breathing,142.44,78.98
+5cc8ed63fc13ae3b0f000248,Harris,Whyte,9 Village Green Junction,New York City,New York,1991,Male,Excellent,Use of Feet,140.1,48.47
+5cc8ed63fc13ae3b0f000249,Veronica,Pipe,7 Nova Junction,Crawfordsville,Indiana,1990,Female,Excellent,Breathing,187.21,83.07
+5cc8ed63fc13ae3b0f00024a,Holden,Faveryear,42 Hansons Alley,Indianapolis,Indiana,1993,Male,Good,Breathing,143.51,46.91
+5cc8ed63fc13ae3b0f00024b,Ferdy,Brantl,91 Shopko Hill,Houston,Texas,1999,Male,Fair,Use of Feet,175.7,66.77
+5cc8ed63fc13ae3b0f00024c,Jo-ann,Godsafe,611 Mallory Hill,Washington,District of Columbia,2000,Female,Good,Arm Action,176.26,83.68
+5cc8ed63fc13ae3b0f00024d,Parnell,Flynn,2710 East Avenue,Columbus,Ohio,2004,Male,Good,Arm Action,193.25,73.43
+5cc8ed63fc13ae3b0f00024e,Cyrill,Clines,7 East Crossing,El Paso,Texas,1998,Male,Fair,Turning,153.04,65.9
+5cc8ed63fc13ae3b0f00024f,Gino,Care,50 Pankratz Drive,Memphis,Tennessee,1990,Male,Good,Use of Feet,196.61,69.02
+5cc8ed63fc13ae3b0f000250,Gardner,Geggus,745 Upham Crossing,Tuscaloosa,Alabama,1997,Male,Good,Breathing,141.23,58.94
+5cc8ed63fc13ae3b0f000251,Judie,Oran,01760 Mendota Road,Washington,District of Columbia,1995,Female,Good,Turning,175.54,91.41
+5cc8ed63fc13ae3b0f000252,Harwell,Seys,8 Namekagon Circle,,,2002,Male,,,123.36,93.8
+5cc8ed63fc13ae3b0f000253,Valentia,Poulton,5 Gale Plaza,Reading,Pennsylvania,1991,Female,Good,Breathing,192.49,78.25
+5cc8ed63fc13ae3b0f000254,Dominic,Hilbourne,5 Summerview Alley,Atlanta,Georgia,1986,Male,Good,Turning,134.18,58.54
+5cc8ed63fc13ae3b0f000255,Kenton,Agglio,34871 Artisan Pass,Raleigh,North Carolina,1985,Male,Excellent,Turning,123.96,94.06
+5cc8ed63fc13ae3b0f000256,Burl,Probbings,82656 Saint Paul Way,San Diego,California,1982,Male,Good,Arm Action,193.1,88.24
+5cc8ed63fc13ae3b0f000257,Tuesday,Darree,6575 Northridge Lane,San Antonio,Texas,1991,Female,Good,Use of Feet,148.74,88.21
+5cc8ed63fc13ae3b0f000258,Jo,Berridge,39419 Del Sol Street,Boulder,Colorado,1985,Female,Fair,Turning,171.2,64.68
+5cc8ed63fc13ae3b0f000259,Packston,Reames,9 Bayside Point,Lees Summit,Missouri,1995,Male,Excellent,Use of Feet,178.0,79.12
+5cc8ed63fc13ae3b0f00025a,Robb,Collip,10743 Monica Place,Long Beach,California,1989,Male,Fair,Turning,130.72,76.98
+5cc8ed63fc13ae3b0f00025b,Barde,Risson,289 Manitowish Point,Saint Petersburg,Florida,2003,Male,Good,Use of Feet,120.45,54.28
+5cc8ed63fc13ae3b0f00025c,Burr,Antos,899 Dawn Parkway,Washington,District of Columbia,1995,Male,Excellent,Arm Action,141.79,50.73
+5cc8ed63fc13ae3b0f00025d,Emilia,Bearfoot,74306 Fair Oaks Alley,Brooklyn,New York,1991,Female,Good,Use of Feet,133.52,74.64
+5cc8ed63fc13ae3b0f00025e,Gaspar,Drayton,4 Delaware Park,Louisville,Kentucky,2004,Male,Excellent,Arm Action,138.81,45.14
+5cc8ed63fc13ae3b0f00025f,Hazel,O'Duane,07959 Fuller Crossing,Alpharetta,Georgia,1980,Female,Good,Use of Feet,198.31,95.39
+5cc8ed63fc13ae3b0f000260,Max,Ricart,9 Brentwood Drive,Fort Lauderdale,Florida,1985,Female,Excellent,Arm Action,179.6,85.96
+5cc8ed63fc13ae3b0f000261,Onfre,Yakovlev,00292 Grasskamp Circle,Providence,Rhode Island,1988,Male,Fair,Breathing,204.78,56.79
+5cc8ed63fc13ae3b0f000262,Deeyn,Keirle,5816 Derek Parkway,Des Moines,Iowa,1999,Female,Excellent,Arm Action,205.18,65.56
+5cc8ed63fc13ae3b0f000263,Effie,Scorthorne,7 Summerview Way,Tacoma,Washington,1994,Female,Fair,Turning,135.8,79.35
+5cc8ed63fc13ae3b0f000264,Marta,Ziebart,626 Hagan Junction,Atlanta,Georgia,1996,Female,Fair,Turning,124.53,68.22
+5cc8ed63fc13ae3b0f000265,Hedi,Fenkel,04289 Mcbride Terrace,New Orleans,Louisiana,2001,Female,Good,Breathing,167.76,91.42
+5cc8ed63fc13ae3b0f000266,Dasha,Shackle,24202 Dexter Parkway,Dallas,Texas,1986,Female,Fair,Arm Action,149.26,91.58
+5cc8ed63fc13ae3b0f000267,Daile,Jime,325 Almo Parkway,Peoria,Illinois,2003,Female,Excellent,Turning,156.11,99.86
+5cc8ed63fc13ae3b0f000268,Thia,Deener,2488 Elgar Terrace,Shreveport,Louisiana,1987,Female,Good,Arm Action,186.08,98.32
+5cc8ed63fc13ae3b0f000269,Rustin,Frankema,9979 Morningstar Point,Panama City,Florida,2002,Male,Fair,Breathing,170.1,88.39
+5cc8ed63fc13ae3b0f00026a,Kristina,Hallan,1 Northport Junction,Arvada,Colorado,1988,Female,Excellent,Arm Action,138.49,92.5
+5cc8ed63fc13ae3b0f00026b,Dunn,Sifleet,4 Hauk Way,Shreveport,Louisiana,1988,Male,Fair,Arm Action,164.79,77.77
+5cc8ed63fc13ae3b0f00026c,Theodore,Toffoloni,6207 Basil Pass,Columbus,Mississippi,1986,Male,Excellent,Breathing,136.9,92.16
+5cc8ed63fc13ae3b0f00026d,Cleopatra,Prout,8719 Birchwood Drive,Miami,Florida,1986,Female,Excellent,Use of Feet,152.8,51.8
+5cc8ed63fc13ae3b0f00026e,Roda,Bibbie,84752 Graedel Circle,Sacramento,California,1982,Female,Good,Arm Action,203.16,44.85
+5cc8ed63fc13ae3b0f00026f,Daisy,Brambill,199 8th Park,Boston,Massachusetts,1997,Female,Excellent,Turning,150.39,63.67
+5cc8ed63fc13ae3b0f000270,Jamima,Chillcot,23 Sloan Alley,Omaha,Nebraska,2000,Female,Fair,Breathing,198.07,67.09
+5cc8ed63fc13ae3b0f000271,Tobi,Morando,21345 Hovde Way,Seattle,Washington,2005,Female,Fair,Arm Action,159.63,92.59
+5cc8ed63fc13ae3b0f000272,Bartlett,Magarrell,690 Fremont Alley,Richmond,Virginia,1981,Male,Good,Turning,184.58,58.11
+5cc8ed63fc13ae3b0f000273,Jarib,Kelsey,677 Anhalt Pass,Los Angeles,California,1987,Male,Good,Turning,160.76,47.81
+5cc8ed63fc13ae3b0f000274,Tate,Cardillo,130 Rutledge Court,Fort Myers,Florida,1998,Male,Excellent,Use of Feet,128.51,96.44
+5cc8ed63fc13ae3b0f000275,Rivy,Le Lievre,1 Merry Court,Corona,California,1988,Female,Excellent,Arm Action,164.28,56.27
+5cc8ed63fc13ae3b0f000276,Verine,Danielsky,37 Badeau Hill,Youngstown,Ohio,1996,Female,Excellent,Use of Feet,213.16,42.0
+5cc8ed63fc13ae3b0f000277,Brucie,McKean,342 Boyd Hill,Salt Lake City,Utah,1986,Male,Excellent,Use of Feet,164.77,81.96
+5cc8ed63fc13ae3b0f000278,Bunnie,Deacon,63 Eagan Place,Fresno,California,2000,Female,Good,Arm Action,187.8,63.98
+5cc8ed63fc13ae3b0f000279,Collete,Colliford,77 Main Drive,Greensboro,North Carolina,2006,Female,Excellent,Breathing,163.95,64.46
+5cc8ed63fc13ae3b0f00027a,Meghan,Hebditch,743 Waubesa Junction,Macon,Georgia,2000,Female,Excellent,Turning,125.7,82.58
+5cc8ed63fc13ae3b0f00027b,Port,Hintze,6 Schlimgen Pass,Akron,Ohio,1999,Male,Excellent,Turning,189.11,88.28
+5cc8ed63fc13ae3b0f00027c,Job,Coolson,23 Mosinee Way,Fort Worth,Texas,1992,Male,Good,Breathing,121.82,80.66
+5cc8ed63fc13ae3b0f00027d,Ainslie,Cammock,13 Ryan Avenue,Silver Spring,Maryland,2003,Female,Good,Turning,193.69,62.3
+5cc8ed63fc13ae3b0f00027e,Jeramie,Grugerr,8 Westridge Avenue,Mobile,Alabama,2007,Male,Excellent,Breathing,208.83,77.18
+5cc8ed63fc13ae3b0f00027f,Brander,Neachell,885 Rowland Park,El Paso,Texas,1995,Male,Fair,Arm Action,201.18,99.45
+5cc8ed63fc13ae3b0f000280,Elroy,Brekonridge,98720 Nelson Park,Philadelphia,Pennsylvania,1996,Male,Fair,Breathing,126.49,78.42
+5cc8ed63fc13ae3b0f000281,Maryrose,Greiser,0 Morrow Trail,Lubbock,Texas,1982,Female,Good,Arm Action,173.98,62.92
+5cc8ed63fc13ae3b0f000282,Damien,Wilhelmy,10 Shelley Park,Des Moines,Iowa,1991,Male,Excellent,Breathing,149.22,91.29
+5cc8ed63fc13ae3b0f000283,Hans,Campe,263 Melrose Center,Long Beach,California,2004,Male,Good,Turning,130.3,63.42
+5cc8ed63fc13ae3b0f000284,Latrina,Feasey,7305 Cambridge Junction,Boise,Idaho,1995,Female,Fair,Use of Feet,209.09,79.24
+5cc8ed63fc13ae3b0f000285,Kelsy,Leither,8 John Wall Street,Arlington,Texas,1985,Female,Excellent,Use of Feet,145.66,42.09
+5cc8ed63fc13ae3b0f000286,Sigfrid,Atwood,310 Arapahoe Point,San Antonio,Texas,2004,Male,Excellent,Use of Feet,148.5,57.24
+5cc8ed63fc13ae3b0f000287,Randee,Danilewicz,326 Roxbury Place,Springfield,Illinois,2001,Female,Excellent,Use of Feet,182.79,85.74
+5cc8ed63fc13ae3b0f000288,Demott,Hayford,1 New Castle Court,Fort Wayne,Indiana,1998,Male,Fair,Breathing,207.66,53.89
+5cc8ed63fc13ae3b0f000289,Washington,Imort,084 Mayfield Terrace,Washington,District of Columbia,2005,Male,Fair,Turning,195.17,76.33
+5cc8ed63fc13ae3b0f00028a,Tessi,Bullant,4886 Fallview Pass,Jeffersonville,Indiana,1998,Female,Excellent,Breathing,140.33,50.44
+5cc8ed64fc13ae3b0f00028b,Haydon,Yurkov,61603 Talmadge Avenue,Laredo,Texas,1993,Male,Excellent,Arm Action,155.01,55.41
+5cc8ed64fc13ae3b0f00028c,Cindelyn,Plumer,83 Autumn Leaf Alley,Richmond,Virginia,1994,Female,Good,Arm Action,166.75,73.22
+5cc8ed64fc13ae3b0f00028d,Jo ann,Frankiewicz,49 Bartelt Court,Jamaica,New York,1991,Female,Fair,Breathing,147.39,74.35
+5cc8ed64fc13ae3b0f00028e,Gregg,Myrtle,5 Killdeer Parkway,Greensboro,North Carolina,1995,Male,Excellent,Turning,190.55,66.75
+5cc8ed64fc13ae3b0f00028f,Ellette,Burchall,5065 Lerdahl Plaza,Lakeland,Florida,2001,Female,Good,Arm Action,183.79,63.92
+5cc8ed64fc13ae3b0f000290,Shellie,Witcombe,775 Kensington Pass,El Paso,Texas,2000,Female,Fair,Arm Action,143.68,92.91
+5cc8ed64fc13ae3b0f000291,Barbie,O'Towey,564 Bunting Road,Providence,Rhode Island,1986,Female,Fair,Breathing,120.16,91.01
+5cc8ed64fc13ae3b0f000292,Reggi,Greenwood,0530 Scofield Trail,Florence,South Carolina,1993,Female,Fair,Turning,153.61,89.6
+5cc8ed64fc13ae3b0f000293,Eddy,Fiddian,14860 Melody Road,El Paso,Texas,2001,Female,Excellent,Turning,191.14,47.98
+5cc8ed64fc13ae3b0f000294,Clarey,Prise,27016 Schmedeman Park,Birmingham,Alabama,1999,Female,Good,Arm Action,162.61,84.44
+5cc8ed64fc13ae3b0f000295,Anastassia,Drewery,07436 Chive Terrace,Anchorage,Alaska,1982,Female,Good,Arm Action,200.49,93.2
+5cc8ed64fc13ae3b0f000296,Robinson,Luipold,354 Reindahl Terrace,Duluth,Minnesota,1987,Male,Good,Turning,185.36,44.91
+5cc8ed64fc13ae3b0f000297,Alanah,Klasing,397 Oriole Parkway,El Paso,Texas,1980,Female,Good,Turning,155.67,77.26
+5cc8ed64fc13ae3b0f000298,Egon,MacCleod,1237 Transport Court,Reading,Pennsylvania,1990,Male,Fair,Turning,132.0,97.22
+5cc8ed64fc13ae3b0f000299,Bryn,Letchmore,15 Kings Terrace,Brooksville,Florida,1998,Female,Fair,Breathing,169.91,87.37
+5cc8ed64fc13ae3b0f00029a,Urbain,Porte,78 Oneill Way,Carol Stream,Illinois,1996,Male,Good,Use of Feet,154.93,46.66
+5cc8ed64fc13ae3b0f00029b,Daron,Barbrook,1 Forest Dale Road,,,1991,Male,,,139.17,45.78
+5cc8ed64fc13ae3b0f00029c,Emmet,Danaher,651 International Alley,Oklahoma City,Oklahoma,2003,Male,Good,Arm Action,127.54,65.63
+5cc8ed64fc13ae3b0f00029d,Joeann,Grzes,2 Acker Court,,,1985,Female,,,148.31,62.7
+5cc8ed64fc13ae3b0f00029e,Pyotr,Shitliff,39861 Lunder Parkway,Amarillo,Texas,1985,Male,Fair,Turning,155.51,70.36
+5cc8ed64fc13ae3b0f00029f,Erna,Leyfield,32015 Dorton Park,Raleigh,North Carolina,2003,Female,Fair,Arm Action,141.81,63.7
+5cc8ed64fc13ae3b0f0002a0,Darill,Drawmer,9 Hooker Alley,Memphis,Tennessee,1983,Male,Good,Breathing,172.5,46.43
+5cc8ed64fc13ae3b0f0002a1,Maxi,Cicconetti,28 Randy Point,Oakland,California,1991,Female,Good,Arm Action,143.0,77.26
+5cc8ed64fc13ae3b0f0002a2,Gavan,Clair,57 Green Ridge Terrace,Irvine,California,2007,Male,Good,Turning,138.51,40.25
+5cc8ed64fc13ae3b0f0002a3,Aurel,Schottli,54 Independence Way,Homestead,Florida,1988,Female,Good,Arm Action,126.16,62.23
+5cc8ed64fc13ae3b0f0002a4,Fabiano,Maloney,48 Havey Crossing,Bakersfield,California,1986,Male,Excellent,Turning,129.72,44.07
+5cc8ed64fc13ae3b0f0002a5,Bonnie,Micheli,81 Scott Hill,Seattle,Washington,1992,Female,Good,Breathing,121.76,48.23
+5cc8ed64fc13ae3b0f0002a6,Wilma,Shoebridge,275 Dapin Place,Rochester,New York,1998,Female,Excellent,Breathing,191.14,89.55
+5cc8ed64fc13ae3b0f0002a7,D'arcy,Devennie,6 Corben Crossing,Birmingham,Alabama,1991,Male,Fair,Use of Feet,152.38,82.37
+5cc8ed64fc13ae3b0f0002a8,Hesther,Worsnip,37653 Fulton Avenue,Birmingham,Alabama,2000,Female,Excellent,Arm Action,124.11,65.93
+5cc8ed64fc13ae3b0f0002a9,Elita,Southernwood,1955 Starling Hill,Fort Myers,Florida,1990,Female,Excellent,Use of Feet,140.73,97.07
+5cc8ed64fc13ae3b0f0002aa,Delano,Nicely,05 Express Plaza,Houston,Texas,2000,Male,Excellent,Breathing,210.5,68.82
+5cc8ed64fc13ae3b0f0002ab,Micky,Leacock,10 Quincy Hill,New Castle,Pennsylvania,1999,Male,Fair,Turning,201.38,78.6
+5cc8ed64fc13ae3b0f0002ac,Alma,Lashmar,7 Fulton Terrace,Pasadena,California,1990,Female,Excellent,Turning,203.61,66.6
+5cc8ed64fc13ae3b0f0002ad,Alena,Kenforth,3995 Stoughton Terrace,Louisville,Kentucky,1998,Female,Excellent,Arm Action,120.35,65.91
+5cc8ed64fc13ae3b0f0002ae,Georgi,Ockenden,79 Cody Circle,Colorado Springs,Colorado,2002,Male,Good,Breathing,147.98,57.68
+5cc8ed64fc13ae3b0f0002af,Elenore,Stovin,5320 Toban Terrace,,,2001,Female,,,131.65,56.25
+5cc8ed64fc13ae3b0f0002b0,Fredrick,Andrioni,06 Orin Point,Memphis,Tennessee,2007,Male,Excellent,Turning,201.65,47.81
+5cc8ed64fc13ae3b0f0002b1,Kipp,Clayton,80315 Stang Parkway,Charlotte,North Carolina,1985,Female,Excellent,Breathing,214.13,66.48
+5cc8ed64fc13ae3b0f0002b2,Dall,Valder,83 Menomonie Parkway,Santa Barbara,California,1987,Male,Good,Turning,124.49,52.74
+5cc8ed64fc13ae3b0f0002b3,Osmund,Elsy,75370 Morrow Crossing,Miami,Florida,1985,Male,Excellent,Use of Feet,205.78,40.08
+5cc8ed64fc13ae3b0f0002b4,Lyell,Lindenstrauss,6201 Summit Court,Pittsburgh,Pennsylvania,1982,Male,Fair,Breathing,199.06,50.56
+5cc8ed64fc13ae3b0f0002b5,Giacobo,Olorenshaw,94 Pawling Point,Omaha,Nebraska,1994,Male,Fair,Breathing,152.75,96.04
+5cc8ed64fc13ae3b0f0002b6,Forrester,Daley,133 Toban Alley,Cheyenne,Wyoming,1981,Male,Excellent,Breathing,170.66,79.26
+5cc8ed64fc13ae3b0f0002b7,Michaelina,Cowerd,661 Ilene Way,Mobile,Alabama,1998,Female,Good,Arm Action,160.04,61.54
+5cc8ed64fc13ae3b0f0002b8,Selle,Camber,86 John Wall Avenue,Delray Beach,Florida,1996,Female,Fair,Arm Action,160.77,92.07
+5cc8ed64fc13ae3b0f0002b9,Talbert,Mergue,887 Brentwood Street,Honolulu,Hawaii,2001,Male,Fair,Breathing,135.87,49.78
+5cc8ed64fc13ae3b0f0002ba,Marvin,Semiraz,96544 Tennessee Circle,Albuquerque,New Mexico,2003,Male,Good,Turning,128.06,69.3
+5cc8ed64fc13ae3b0f0002bb,Maxine,Engall,9708 Springs Pass,Atlanta,Georgia,2002,Female,Fair,Turning,184.24,91.33
+5cc8ed64fc13ae3b0f0002bc,Harwilll,Matoshin,2424 Pine View Point,Winter Haven,Florida,2008,Male,Good,Arm Action,169.9,72.93
+5cc8ed64fc13ae3b0f0002bd,Carma,Pancost,2 Nova Plaza,Dallas,Texas,1983,Female,Fair,Arm Action,170.97,62.06
+5cc8ed64fc13ae3b0f0002be,Melony,Lindenman,1783 Corscot Plaza,Tulsa,Oklahoma,2002,Female,Good,Breathing,196.33,45.69
+5cc8ed64fc13ae3b0f0002bf,Even,Ricioppo,922 Blue Bill Park Parkway,Durham,North Carolina,1983,Male,Excellent,Use of Feet,148.57,75.79
+5cc8ed64fc13ae3b0f0002c0,Bonnie,Karlik,38 Maple Wood Avenue,Sunnyvale,California,1983,Female,Excellent,Breathing,129.76,72.12
+5cc8ed64fc13ae3b0f0002c1,Editha,Sumption,62415 Ohio Plaza,Miami,Florida,2001,Female,Good,Arm Action,205.03,71.66
+5cc8ed64fc13ae3b0f0002c2,Concettina,Girardy,1 Southridge Road,Raleigh,North Carolina,2001,Female,Fair,Arm Action,197.98,63.23
+5cc8ed64fc13ae3b0f0002c3,Pincas,Saurat,7171 Victoria Street,Brooklyn,New York,2005,Male,Fair,Breathing,153.34,84.48
+5cc8ed64fc13ae3b0f0002c4,Jaine,Noah,60 Emmet Circle,Elmira,New York,1989,Female,Good,Turning,153.72,96.17
+5cc8ed64fc13ae3b0f0002c5,Berke,Roome,663 Memorial Way,Wilmington,North Carolina,1981,Male,Excellent,Arm Action,185.82,58.12
+5cc8ed64fc13ae3b0f0002c6,Ichabod,Clerke,651 Carpenter Place,Peoria,Illinois,2004,Male,Fair,Use of Feet,164.79,60.22
+5cc8ed64fc13ae3b0f0002c7,Ranee,Spatig,47 Shasta Trail,Toledo,Ohio,1995,Female,Fair,Use of Feet,170.44,94.91
+5cc8ed64fc13ae3b0f0002c8,Jessa,Slyme,4076 Dottie Avenue,Memphis,Tennessee,2000,Female,Good,Use of Feet,148.22,46.38
+5cc8ed64fc13ae3b0f0002c9,Clovis,Pruckner,913 Alpine Park,Fort Worth,Texas,2007,Female,Fair,Turning,166.18,50.04
+5cc8ed64fc13ae3b0f0002ca,Gwenora,Huie,5 5th Hill,Anderson,South Carolina,1981,Female,Fair,Turning,134.2,55.54
+5cc8ed64fc13ae3b0f0002cb,Irita,Spencook,6 Lakewood Pass,Charlotte,North Carolina,2005,Female,Fair,Arm Action,120.03,64.31
+5cc8ed64fc13ae3b0f0002cc,Renado,Le Prevost,911 Express Alley,Alexandria,Virginia,2005,Male,Good,Turning,121.47,85.82
+5cc8ed64fc13ae3b0f0002cd,Marwin,Clutten,0 Waubesa Point,Fresno,California,2007,Male,Excellent,Arm Action,164.31,61.96
+5cc8ed64fc13ae3b0f0002ce,Thea,Skoof,1 Vidon Avenue,Fresno,California,2002,Female,Good,Arm Action,146.54,74.12
+5cc8ed64fc13ae3b0f0002cf,Albrecht,Matzl,499 La Follette Avenue,Houston,Texas,2008,Male,Good,Turning,203.33,99.67
+5cc8ed64fc13ae3b0f0002d0,Hildegaard,Ibberson,86421 Hagan Lane,Jefferson City,Missouri,1986,Female,Fair,Arm Action,213.2,56.99
+5cc8ed64fc13ae3b0f0002d1,Vanessa,Grigolli,83450 Valley Edge Road,Fort Lauderdale,Florida,1980,Female,Good,Use of Feet,162.65,62.01
+5cc8ed64fc13ae3b0f0002d2,Yvor,Crecy,64 Hintze Avenue,Dayton,Ohio,1995,Male,Fair,Turning,179.01,85.02
+5cc8ed64fc13ae3b0f0002d3,Matias,O'Gormley,242 Petterle Circle,Dayton,Ohio,1981,Male,Fair,Arm Action,203.21,61.98
+5cc8ed64fc13ae3b0f0002d4,Lenci,Manoelli,06471 Schlimgen Lane,Peoria,Illinois,1989,Male,Excellent,Use of Feet,196.5,77.5
+5cc8ed64fc13ae3b0f0002d5,Travers,Synnot,0998 Carey Avenue,Brooksville,Florida,1996,Male,Excellent,Turning,144.99,93.94
+5cc8ed64fc13ae3b0f0002d6,Pedro,Stedmond,5 Waywood Point,Indianapolis,Indiana,1988,Male,Fair,Arm Action,190.17,63.13
+5cc8ed64fc13ae3b0f0002d7,Atlanta,List,1502 Vidon Circle,Albuquerque,New Mexico,2000,Female,Excellent,Use of Feet,143.58,40.13
+5cc8ed64fc13ae3b0f0002d8,Brita,Keddle,9333 Mayer Drive,Tucson,Arizona,1987,Female,Good,Turning,176.96,49.67
+5cc8ed64fc13ae3b0f0002d9,Billy,Groger,6908 American Ash Avenue,Spartanburg,South Carolina,2003,Male,Excellent,Arm Action,120.48,85.65
+5cc8ed64fc13ae3b0f0002da,Agneta,MacSporran,2665 Doe Crossing Avenue,Miami,Florida,1997,Female,Fair,Turning,186.12,95.7
+5cc8ed64fc13ae3b0f0002db,Gardie,Stenyng,51696 Lighthouse Bay Alley,West Hartford,Connecticut,2003,Male,Excellent,Breathing,154.47,88.16
+5cc8ed64fc13ae3b0f0002dc,Christal,Gosenell,8718 Bluejay Trail,Waltham,Massachusetts,2007,Female,Good,Turning,202.89,41.21
+5cc8ed64fc13ae3b0f0002dd,Fraze,Manchester,74809 Loomis Court,Washington,District of Columbia,1982,Male,Fair,Arm Action,187.94,78.13
+5cc8ed64fc13ae3b0f0002de,Corri,Mailes,18 Sycamore Terrace,San Diego,California,2000,Female,Fair,Turning,205.67,43.76
+5cc8ed64fc13ae3b0f0002df,Cornell,Flips,756 Transport Hill,Saint Petersburg,Florida,1991,Male,Good,Arm Action,161.83,93.62
+5cc8ed64fc13ae3b0f0002e0,Irwinn,Sang,8 Anderson Junction,Miami,Florida,1981,Male,Fair,Turning,120.78,75.5
+5cc8ed64fc13ae3b0f0002e1,Cynthea,Gammell,4 Shelley Place,Naples,Florida,1999,Female,Good,Breathing,201.86,91.73
+5cc8ed64fc13ae3b0f0002e2,Whitney,Torresi,68392 5th Court,Houston,Texas,1988,Male,Fair,Arm Action,120.37,67.72
+5cc8ed64fc13ae3b0f0002e3,Skylar,Lonergan,17 Northport Pass,Sacramento,California,2002,Male,Good,Use of Feet,212.94,86.35
+5cc8ed64fc13ae3b0f0002e4,Ki,Keenlayside,86 Lillian Park,San Diego,California,2004,Female,Excellent,Turning,187.86,53.88
+5cc8ed64fc13ae3b0f0002e5,Ginny,Freyne,4257 Burning Wood Lane,Jamaica,New York,2007,Female,Excellent,Use of Feet,182.97,40.22
+5cc8ed64fc13ae3b0f0002e6,Hewe,D'Ambrosi,63 Cascade Parkway,Honolulu,Hawaii,1987,Male,Fair,Use of Feet,191.57,66.7
+5cc8ed64fc13ae3b0f0002e7,Henryetta,Paoletti,50500 Pepper Wood Place,Spring,Texas,1982,Female,Fair,Breathing,120.53,76.4
+5cc8ed64fc13ae3b0f0002e8,Valida,Carrabott,96 6th Pass,Des Moines,Iowa,1989,Female,Excellent,Arm Action,164.18,67.0
+5cc8ed64fc13ae3b0f0002e9,Daveen,Stonhouse,97056 4th Crossing,Fairbanks,Alaska,1986,Female,Fair,Breathing,211.82,73.65
+5cc8ed64fc13ae3b0f0002ea,Lara,Dunkerton,7616 Eliot Lane,Wichita Falls,Texas,2000,Female,Excellent,Turning,156.44,43.08
+5cc8ed64fc13ae3b0f0002eb,Bobbette,McEneny,27 Rockefeller Drive,Canton,Ohio,2001,Female,Excellent,Breathing,138.11,56.97
+5cc8ed64fc13ae3b0f0002ec,Wait,Amoss,5 Valley Edge Terrace,Mobile,Alabama,2006,Male,Fair,Use of Feet,138.33,76.47
+5cc8ed64fc13ae3b0f0002ed,Elli,Jarrel,5026 Clyde Gallagher Parkway,Boise,Idaho,1984,Female,Good,Use of Feet,174.82,93.73
+5cc8ed64fc13ae3b0f0002ee,Dietrich,Stean,1 Cardinal Hill,Pasadena,California,2005,Male,Good,Arm Action,157.65,57.16
+5cc8ed64fc13ae3b0f0002ef,Netty,McPhate,1 Graedel Lane,Boston,Massachusetts,2002,Female,Good,Breathing,149.81,98.09
+5cc8ed64fc13ae3b0f0002f0,Kippie,Mogey,49 Dexter Plaza,Pittsburgh,Pennsylvania,2001,Female,Good,Use of Feet,174.31,98.38
+5cc8ed64fc13ae3b0f0002f1,Andromache,Belford,8143 Stephen Terrace,Portsmouth,New Hampshire,1988,Female,Good,Arm Action,181.44,54.95
+5cc8ed64fc13ae3b0f0002f2,Jamal,Gabby,025 Stuart Place,Charleston,West Virginia,1982,Male,Excellent,Use of Feet,144.3,49.47
+5cc8ed64fc13ae3b0f0002f3,Cathyleen,Oatley,48081 Commercial Crossing,Charlottesville,Virginia,1981,Female,Good,Use of Feet,188.86,47.77
+5cc8ed64fc13ae3b0f0002f4,Sephira,Pates,44247 Arrowood Lane,Bowie,Maryland,1983,Female,Good,Breathing,128.48,76.44
+5cc8ed64fc13ae3b0f0002f5,Cori,Juschka,776 Talmadge Point,Kansas City,Missouri,1989,Male,Fair,Use of Feet,124.27,99.85
+5cc8ed64fc13ae3b0f0002f6,Farica,Dugget,43 Dapin Circle,Fort Lauderdale,Florida,2006,Female,Fair,Arm Action,129.26,72.73
+5cc8ed64fc13ae3b0f0002f7,Sloane,MacKellar,93 Claremont Drive,Sunnyvale,California,1982,Male,Fair,Turning,136.65,87.29
+5cc8ed64fc13ae3b0f0002f8,Janis,Kirrage,75798 Ridgeview Junction,Amarillo,Texas,2001,Female,Fair,Turning,177.68,58.64
+5cc8ed64fc13ae3b0f0002f9,Giovanni,Moreno,410 Dexter Pass,Saint Paul,Minnesota,1986,Male,Excellent,Breathing,204.58,46.01
+5cc8ed64fc13ae3b0f0002fa,Leland,Barracks,60 Hanover Pass,Winston Salem,North Carolina,1983,Male,Excellent,Breathing,181.87,59.01
+5cc8ed64fc13ae3b0f0002fb,Amandi,Floch,5423 Stang Lane,Saint Louis,Missouri,1980,Female,Fair,Turning,189.8,48.49
+5cc8ed64fc13ae3b0f0002fc,Nap,Evangelinos,4866 Rieder Junction,Van Nuys,California,2002,Male,Good,Breathing,125.1,75.6
+5cc8ed64fc13ae3b0f0002fd,Burch,Froud,81813 Welch Place,Shreveport,Louisiana,1980,Male,Fair,Turning,199.74,77.53
+5cc8ed64fc13ae3b0f0002fe,Mariellen,Coulthurst,689 Talisman Lane,El Paso,Texas,1993,Female,Fair,Breathing,214.8,53.04
+5cc8ed64fc13ae3b0f0002ff,Randi,Craney,6439 Carey Point,Charlotte,North Carolina,2007,Male,Fair,Use of Feet,131.09,96.34
+5cc8ed64fc13ae3b0f000300,Adrienne,Clare,2 Waxwing Court,Orlando,Florida,1997,Female,Excellent,Use of Feet,210.48,69.47
+5cc8ed64fc13ae3b0f000301,Desdemona,Message,55 4th Plaza,Terre Haute,Indiana,2008,Female,Excellent,Use of Feet,138.4,77.04
+5cc8ed64fc13ae3b0f000302,Lorilyn,Argontt,9 Arkansas Way,Suffolk,Virginia,1996,Female,Fair,Breathing,197.55,45.94
+5cc8ed64fc13ae3b0f000303,Grissel,Garlic,21207 Jenifer Way,Miami,Florida,2000,Female,Good,Turning,184.36,78.6
+5cc8ed64fc13ae3b0f000304,Blane,Keary,4324 Sunfield Plaza,Philadelphia,Pennsylvania,2007,Male,Excellent,Use of Feet,165.25,64.82
+5cc8ed64fc13ae3b0f000305,Catina,Bowsher,82 Milwaukee Hill,San Luis Obispo,California,1995,Female,Excellent,Arm Action,180.17,60.94
+5cc8ed64fc13ae3b0f000306,Fredric,Oseman,83980 Old Gate Trail,New Orleans,Louisiana,2002,Male,Good,Use of Feet,144.01,82.63
+5cc8ed64fc13ae3b0f000307,Manda,Winney,06 Fair Oaks Way,Denver,Colorado,1995,Female,Fair,Use of Feet,149.92,74.06
+5cc8ed64fc13ae3b0f000308,Ainslee,Mahon,775 Debra Place,Albuquerque,New Mexico,2008,Female,Fair,Arm Action,136.59,59.32
+5cc8ed64fc13ae3b0f000309,Stearne,Frid,90 Mayfield Park,Saint Petersburg,Florida,1994,Male,Excellent,Use of Feet,127.48,68.92
+5cc8ed64fc13ae3b0f00030a,Farrand,McBeth,74894 Cordelia Terrace,Lima,Ohio,1988,Female,Excellent,Arm Action,124.57,80.32
+5cc8ed64fc13ae3b0f00030b,Chicky,Hollebon,6339 Declaration Lane,Trenton,New Jersey,1998,Male,Fair,Use of Feet,205.12,98.84
+5cc8ed64fc13ae3b0f00030c,Fernandina,Petriello,19 North Circle,Topeka,Kansas,2000,Female,Fair,Arm Action,168.32,92.74
+5cc8ed64fc13ae3b0f00030d,Birgitta,Wetherhead,588 Sullivan Point,Naples,Florida,2003,Female,Fair,Breathing,123.17,87.42
+5cc8ed64fc13ae3b0f00030e,Maynard,Impett,6489 Elka Terrace,Washington,District of Columbia,1989,Male,Excellent,Breathing,189.85,54.29
+5cc8ed64fc13ae3b0f00030f,Gale,Casina,13879 Johnson Circle,Miami,Florida,1988,Male,Excellent,Turning,198.69,65.17
+5cc8ed64fc13ae3b0f000310,Jewel,Durnall,300 Summit Alley,Louisville,Kentucky,1986,Female,Excellent,Use of Feet,130.79,45.37
+5cc8ed64fc13ae3b0f000311,Elisha,Tedstone,3 Eagan Place,Brea,California,2005,Female,Excellent,Arm Action,170.64,71.8
+5cc8ed64fc13ae3b0f000312,Malva,Fargher,45 Lotheville Place,Dallas,Texas,2002,Female,Good,Use of Feet,144.87,92.99
+5cc8ed64fc13ae3b0f000313,Delano,Sweetenham,5915 Chinook Street,New York City,New York,1980,Male,Fair,Use of Feet,137.25,99.64
+5cc8ed64fc13ae3b0f000314,Ardeen,Gravett,9 Artisan Place,Charlotte,North Carolina,2008,Female,Excellent,Arm Action,166.62,46.93
+5cc8ed64fc13ae3b0f000315,Lorna,Symers,93776 Burrows Street,Orange,California,1980,Female,Fair,Arm Action,146.91,93.25
+5cc8ed64fc13ae3b0f000316,Stanislaw,Shailer,60804 Artisan Drive,Huntington,West Virginia,2000,Male,Fair,Arm Action,164.32,72.66
+5cc8ed64fc13ae3b0f000317,Miguelita,Rillstone,971 Bluejay Way,Macon,Georgia,1986,Female,Good,Arm Action,189.53,52.1
+5cc8ed64fc13ae3b0f000318,Auguste,Gladtbach,1408 Paget Trail,Detroit,Michigan,1981,Female,Fair,Arm Action,157.95,70.99
+5cc8ed64fc13ae3b0f000319,Sherm,Zanotti,270 Delladonna Drive,San Diego,California,1985,Male,Good,Breathing,142.49,63.92
+5cc8ed64fc13ae3b0f00031a,Evangeline,Crotch,6063 Quincy Street,Torrance,California,2000,Female,Good,Use of Feet,197.78,55.46
+5cc8ed64fc13ae3b0f00031b,Jacquelyn,Allenson,1328 Bay Trail,Washington,District of Columbia,2000,Female,Excellent,Breathing,207.29,60.16
+5cc8ed64fc13ae3b0f00031c,Shamus,Thresh,1 Riverside Park,Dayton,Ohio,1995,Male,Excellent,Arm Action,127.61,48.05
+5cc8ed64fc13ae3b0f00031d,Dorisa,Wildor,2 Swallow Center,Miami Beach,Florida,1982,Female,Good,Turning,178.3,44.37
+5cc8ed64fc13ae3b0f00031e,Gratiana,Croote,21 Sugar Point,Denton,Texas,1986,Female,Good,Arm Action,203.6,79.79
+5cc8ed64fc13ae3b0f00031f,Maddalena,Harler,812 Hanson Avenue,Saint Louis,Missouri,1987,Female,Fair,Arm Action,162.84,70.71
+5cc8ed64fc13ae3b0f000320,Jennee,Lamont,4733 Acker Drive,Houston,Texas,1995,Female,Fair,Breathing,148.2,82.8
+5cc8ed64fc13ae3b0f000321,Andres,Bande,3 Cordelia Pass,Alexandria,Virginia,2006,Male,Excellent,Turning,150.75,58.3
+5cc8ed64fc13ae3b0f000322,Constancy,Widdows,17197 Ryan Place,Jamaica,New York,2006,Female,Fair,Arm Action,191.19,99.98
+5cc8ed64fc13ae3b0f000323,Dickie,Rodder,06 Macpherson Drive,Inglewood,California,2008,Male,Good,Use of Feet,199.16,79.26
+5cc8ed64fc13ae3b0f000324,Phillip,Patise,25 Little Fleur Court,Los Angeles,California,1982,Male,Fair,Breathing,122.64,53.5
+5cc8ed64fc13ae3b0f000325,Dmitri,Cattlemull,7 Claremont Road,Round Rock,Texas,1991,Male,Good,Breathing,185.49,62.69
+5cc8ed64fc13ae3b0f000326,Lily,Esch,0009 Porter Place,Shreveport,Louisiana,1989,Female,Good,Use of Feet,196.83,98.17
+5cc8ed64fc13ae3b0f000327,Ibrahim,Rhydderch,776 Fair Oaks Alley,Conroe,Texas,1984,Male,Fair,Use of Feet,183.64,58.59
+5cc8ed64fc13ae3b0f000328,Glenine,Tomini,56 Elka Place,Greenville,South Carolina,1982,Female,Good,Arm Action,159.52,72.45
+5cc8ed64fc13ae3b0f000329,Meara,Orrah,51 Merchant Parkway,Charlottesville,Virginia,2006,Female,Excellent,Breathing,138.01,80.13
+5cc8ed64fc13ae3b0f00032a,Bat,Flisher,5 Toban Pass,Sarasota,Florida,1999,Male,Good,Breathing,178.82,55.2
+5cc8ed64fc13ae3b0f00032b,Gan,Flook,49 Troy Circle,Pueblo,Colorado,1980,Male,Excellent,Breathing,141.75,49.12
+5cc8ed64fc13ae3b0f00032c,Addie,Dishman,35 Donald Plaza,Tallahassee,Florida,1993,Female,Good,Use of Feet,189.08,41.59
+5cc8ed64fc13ae3b0f00032d,Bellina,Colten,54569 Bunting Point,Columbus,Ohio,1996,Female,Good,Arm Action,170.34,66.94
+5cc8ed64fc13ae3b0f00032e,Mikey,Mardle,48016 Shasta Alley,New York City,New York,1992,Male,Excellent,Turning,172.66,74.92
+5cc8ed64fc13ae3b0f00032f,Lenette,Redsell,9 Crowley Parkway,Memphis,Tennessee,1982,Female,Fair,Arm Action,155.1,43.58
+5cc8ed64fc13ae3b0f000330,Ulrick,Goodlatt,9 Onsgard Park,Chico,California,1996,Male,Good,Breathing,128.29,50.06
+5cc8ed64fc13ae3b0f000331,Tawnya,Weakley,420 Heffernan Terrace,,,1988,Female,,,200.63,69.78
+5cc8ed64fc13ae3b0f000332,Taylor,Given,414 Parkside Avenue,Reno,Nevada,2008,Male,Fair,Turning,163.35,49.86
+5cc8ed64fc13ae3b0f000333,Abbott,Commings,3333 Johnson Trail,Washington,District of Columbia,1991,Male,Good,Breathing,128.77,81.02
+5cc8ed64fc13ae3b0f000334,Correna,Andrioli,39896 Kennedy Trail,San Antonio,Texas,2008,Female,Excellent,Breathing,137.89,43.39
+5cc8ed64fc13ae3b0f000335,Adelheid,McMahon,27 Mayer Lane,Washington,District of Columbia,1991,Female,Fair,Arm Action,202.26,82.23
+5cc8ed64fc13ae3b0f000336,Maridel,Tortoishell,55195 Welch Park,Sacramento,California,1999,Female,Fair,Turning,144.09,41.43
+5cc8ed64fc13ae3b0f000337,Slade,Sloy,45 Carberry Place,,,2001,Male,,,184.38,92.43
+5cc8ed64fc13ae3b0f000338,Catherina,Abelov,1298 Del Sol Street,Sacramento,California,2008,Female,Fair,Arm Action,128.44,58.68
+5cc8ed64fc13ae3b0f000339,Nanni,Roseburgh,95812 Esker Plaza,Denver,Colorado,1996,Female,Excellent,Breathing,196.24,81.0
+5cc8ed64fc13ae3b0f00033a,Iorgos,Burnside,98 Bayside Hill,Chicago,Illinois,2001,Male,Excellent,Breathing,123.91,98.93
+5cc8ed64fc13ae3b0f00033b,Devonna,Klebes,18 Bonner Point,Los Angeles,California,1980,Female,Excellent,Turning,173.42,69.4
+5cc8ed64fc13ae3b0f00033c,Sabina,Mosconi,6 Atwood Trail,Lake Worth,Florida,1990,Female,Good,Turning,174.89,80.2
+5cc8ed64fc13ae3b0f00033d,Michele,Longden,16180 Karstens Hill,Erie,Pennsylvania,1997,Male,Good,Breathing,205.82,71.15
+5cc8ed64fc13ae3b0f00033e,Base,Werendell,567 Vernon Court,Riverside,California,2002,Male,Excellent,Turning,209.71,48.45
+5cc8ed64fc13ae3b0f00033f,Thain,Darville,07 Southridge Avenue,Pittsburgh,Pennsylvania,1985,Male,Good,Breathing,141.18,56.52
+5cc8ed64fc13ae3b0f000340,Annabel,Philler,447 Gulseth Alley,Austin,Texas,2006,Female,Fair,Use of Feet,138.76,56.03
+5cc8ed64fc13ae3b0f000341,Estele,Bracken,2 American Park,Colorado Springs,Colorado,1994,Female,Excellent,Breathing,126.72,98.99
+5cc8ed64fc13ae3b0f000342,Murdock,Mancktelow,2008 Gateway Crossing,Nashville,Tennessee,1995,Male,Excellent,Breathing,201.56,56.5
+5cc8ed64fc13ae3b0f000343,Roanne,Ochterlonie,30471 Hallows Crossing,San Angelo,Texas,1985,Female,Excellent,Arm Action,186.36,69.25
+5cc8ed64fc13ae3b0f000344,Lanie,Annis,56 Twin Pines Avenue,Springfield,Missouri,1994,Female,Fair,Breathing,204.37,74.11
+5cc8ed64fc13ae3b0f000345,Suellen,Tilling,00 Erie Alley,Atlanta,Georgia,1984,Female,Fair,Arm Action,207.55,51.19
+5cc8ed64fc13ae3b0f000346,Vikky,Thaine,20191 Ridge Oak Parkway,Santa Barbara,California,2001,Female,Good,Use of Feet,168.51,87.31
+5cc8ed64fc13ae3b0f000347,Lizzy,Dionisio,2373 Kensington Alley,Kansas City,Missouri,1981,Female,Excellent,Use of Feet,122.6,50.37
+5cc8ed64fc13ae3b0f000348,Smitty,Lappin,4 Upham Hill,Miami,Florida,1989,Male,Excellent,Use of Feet,189.95,77.71
+5cc8ed64fc13ae3b0f000349,Dannie,Dickson,186 Susan Center,Sacramento,California,1980,Female,Fair,Arm Action,141.42,93.08
+5cc8ed64fc13ae3b0f00034a,Rosie,Bruinemann,16043 Magdeline Avenue,Cincinnati,Ohio,1989,Female,Excellent,Arm Action,210.58,83.62
+5cc8ed64fc13ae3b0f00034b,Ofella,Butlin,5 Sommers Road,Amarillo,Texas,1988,Female,Good,Use of Feet,195.98,77.47
+5cc8ed64fc13ae3b0f00034c,Mick,Dyett,25780 Haas Hill,Minneapolis,Minnesota,2007,Male,Excellent,Turning,167.3,85.37
+5cc8ed64fc13ae3b0f00034d,Davey,Lardez,15 Scoville Court,Independence,Missouri,1991,Male,Fair,Use of Feet,122.56,81.29
+5cc8ed64fc13ae3b0f00034e,Dawna,Kenelin,05 Kinsman Park,Corpus Christi,Texas,2000,Female,Excellent,Use of Feet,183.5,52.79
+5cc8ed64fc13ae3b0f00034f,Jess,Semeniuk,42 Vidon Lane,El Paso,Texas,1986,Female,Good,Arm Action,155.01,82.95
+5cc8ed64fc13ae3b0f000350,Venus,Humberston,3222 Bayside Avenue,Hyattsville,Maryland,2004,Female,Good,Turning,169.74,62.77
+5cc8ed64fc13ae3b0f000351,Sanford,Denecamp,12212 Menomonie Alley,Birmingham,Alabama,2003,Male,Fair,Breathing,166.42,61.3
+5cc8ed64fc13ae3b0f000352,Cyndia,Cavolini,763 Almo Park,Champaign,Illinois,1988,Female,Good,Use of Feet,176.0,45.9
+5cc8ed64fc13ae3b0f000353,Maddie,Treffrey,57688 Prentice Lane,Charlottesville,Virginia,1992,Female,Good,Turning,133.39,41.69
+5cc8ed64fc13ae3b0f000354,Tiffie,Raithby,105 Golf Park,Austin,Texas,1991,Female,Excellent,Turning,138.64,67.55
+5cc8ed64fc13ae3b0f000355,Opaline,Tilburn,0 Trailsway Terrace,Denver,Colorado,1982,Female,Fair,Turning,198.84,93.47
+5cc8ed64fc13ae3b0f000356,Viviene,Suddell,385 Carioca Pass,Mansfield,Ohio,2000,Female,Excellent,Use of Feet,181.56,81.3
+5cc8ed64fc13ae3b0f000357,Aluino,Coles,8 Fisk Trail,Durham,North Carolina,2004,Male,Fair,Breathing,180.83,70.45
+5cc8ed64fc13ae3b0f000358,Colly,Vuitton,8839 Nobel Way,Salinas,California,1983,Female,Excellent,Breathing,148.15,92.42
+5cc8ed64fc13ae3b0f000359,Hillel,Vannacci,50 Banding Trail,Sacramento,California,2003,Male,Fair,Arm Action,210.59,42.18
+5cc8ed64fc13ae3b0f00035a,Malcolm,Murrish,48 Talmadge Circle,Reston,Virginia,1995,Male,Fair,Breathing,142.48,84.27
+5cc8ed64fc13ae3b0f00035b,Blinnie,Eldrid,34790 Dayton Alley,Atlanta,Georgia,1980,Female,Excellent,Breathing,171.74,88.68
+5cc8ed64fc13ae3b0f00035c,Brantley,Castelluzzi,695 Fuller Lane,Las Vegas,Nevada,1994,Male,Fair,Turning,141.11,63.33
+5cc8ed64fc13ae3b0f00035d,Dorrie,Satterfitt,7556 Clarendon Point,Washington,District of Columbia,2003,Female,Good,Turning,123.5,41.8
+5cc8ed64fc13ae3b0f00035e,Thorny,Hegges,2095 Harper Circle,Evansville,Indiana,1985,Male,Excellent,Breathing,131.43,91.48
+5cc8ed64fc13ae3b0f00035f,Fancie,Crysell,72 Dahle Pass,Washington,District of Columbia,2004,Female,Good,Use of Feet,166.11,86.78
+5cc8ed64fc13ae3b0f000360,Dale,Larner,15922 Mcguire Court,Hollywood,Florida,1991,Male,Fair,Use of Feet,196.24,73.44
+5cc8ed64fc13ae3b0f000361,Roxie,Davies,23074 Shasta Center,New York City,New York,2003,Female,Fair,Arm Action,175.8,42.67
+5cc8ed64fc13ae3b0f000362,Billie,Harms,4 Stang Parkway,Washington,District of Columbia,1980,Female,Excellent,Use of Feet,191.99,64.24
+5cc8ed64fc13ae3b0f000363,Ransom,Teale,7893 Forster Hill,Lincoln,Nebraska,1996,Male,Excellent,Breathing,155.15,51.55
+5cc8ed64fc13ae3b0f000364,Zak,McVittie,465 Saint Paul Plaza,Brea,California,1983,Male,Excellent,Arm Action,176.53,43.93
+5cc8ed64fc13ae3b0f000365,Clarabelle,Downs,4447 Elka Court,Oakland,California,1981,Female,Good,Turning,177.58,66.82
+5cc8ed64fc13ae3b0f000366,Skippy,Gamet,2 Parkside Hill,Philadelphia,Pennsylvania,1997,Male,Excellent,Turning,161.72,63.91
+5cc8ed64fc13ae3b0f000367,Savina,Turle,60229 Daystar Street,Paterson,New Jersey,1981,Female,Good,Use of Feet,130.93,84.5
+5cc8ed64fc13ae3b0f000368,Omero,Kollatsch,45 Rowland Terrace,Cincinnati,Ohio,1982,Male,Good,Arm Action,193.07,46.07
+5cc8ed64fc13ae3b0f000369,Mariellen,Hitzschke,57 Merchant Center,Omaha,Nebraska,1985,Female,Excellent,Use of Feet,125.23,43.5
+5cc8ed64fc13ae3b0f00036a,Idette,Roby,09617 Golf Point,Glendale,California,2000,Female,Excellent,Turning,174.13,77.66
+5cc8ed64fc13ae3b0f00036b,Corbett,Madgewick,0785 Hauk Way,Canton,Ohio,1996,Male,Fair,Breathing,207.09,53.12
+5cc8ed64fc13ae3b0f00036c,Ingeberg,Zotto,981 Bartelt Road,Honolulu,Hawaii,1983,Female,Fair,Arm Action,153.56,44.77
+5cc8ed64fc13ae3b0f00036d,Rodger,Malster,0537 Corscot Circle,Houston,Texas,2007,Male,Fair,Arm Action,168.0,47.29
+5cc8ed64fc13ae3b0f00036e,Aldrich,Scheffel,46 Susan Road,New Orleans,Louisiana,1989,Male,Fair,Arm Action,152.46,90.77
+5cc8ed64fc13ae3b0f00036f,Way,Codrington,879 Kingsford Junction,Fort Collins,Colorado,1994,Male,Excellent,Use of Feet,192.29,59.06
+5cc8ed64fc13ae3b0f000370,Fidelia,De Hoogh,4 Village Park,Arlington,Texas,1982,Female,Good,Breathing,154.56,72.15
+5cc8ed64fc13ae3b0f000371,Maurise,Mundie,630 3rd Court,Anchorage,Alaska,2001,Male,Excellent,Arm Action,160.04,73.15
+5cc8ed64fc13ae3b0f000372,Brynne,Godsal,39050 Weeping Birch Crossing,Detroit,Michigan,2000,Female,Excellent,Turning,189.97,62.04
+5cc8ed64fc13ae3b0f000373,Isabelita,Thorndycraft,97 Spenser Avenue,Wichita,Kansas,2008,Female,Fair,Arm Action,161.14,94.15
+5cc8ed64fc13ae3b0f000374,Gracia,Fowkes,95 Monica Hill,Trenton,New Jersey,1985,Female,Fair,Turning,193.31,61.39
+5cc8ed64fc13ae3b0f000375,Tommie,Scrivenor,8 Prairieview Avenue,Atlanta,Georgia,1989,Male,Fair,Breathing,159.75,65.45
+5cc8ed64fc13ae3b0f000376,Jackqueline,Viollet,2586 Hudson Plaza,Schaumburg,Illinois,1981,Female,Good,Use of Feet,121.67,78.42
+5cc8ed64fc13ae3b0f000377,Helenka,Aggott,45283 Hallows Crossing,Washington,District of Columbia,1993,Female,Fair,Breathing,198.03,69.62
+5cc8ed64fc13ae3b0f000378,Valdemar,Baxill,066 Messerschmidt Parkway,Glendale,Arizona,1995,Male,Fair,Breathing,164.1,43.26
+5cc8ed64fc13ae3b0f000379,Teodoro,McKeand,613 Cardinal Point,Baltimore,Maryland,2003,Male,Good,Arm Action,199.58,47.62
+5cc8ed64fc13ae3b0f00037a,Isidoro,Du Fray,558 Johnson Road,Macon,Georgia,1999,Male,Good,Arm Action,184.91,60.34
+5cc8ed64fc13ae3b0f00037b,Marc,Gibb,8679 Ramsey Plaza,Springfield,Massachusetts,1980,Male,Good,Arm Action,205.39,49.66
+5cc8ed64fc13ae3b0f00037c,Maxi,Toleman,313 Everett Place,Littleton,Colorado,1988,Female,Excellent,Use of Feet,158.86,75.24
+5cc8ed64fc13ae3b0f00037d,Emmalynn,Soigoux,747 Dennis Plaza,Stamford,Connecticut,2004,Female,Fair,Arm Action,139.28,80.91
+5cc8ed64fc13ae3b0f00037e,Leonardo,Cicculini,179 Macpherson Crossing,Los Angeles,California,2003,Male,Excellent,Use of Feet,178.14,84.65
+5cc8ed64fc13ae3b0f00037f,Nicolais,Gauch,4 Stephen Junction,Syracuse,New York,2003,Male,Fair,Turning,124.56,60.94
+5cc8ed64fc13ae3b0f000380,Donavon,Rameaux,71427 Mayfield Place,Savannah,Georgia,1984,Male,Fair,Turning,210.9,75.88
+5cc8ed64fc13ae3b0f000381,Niko,Burtwell,5 Mccormick Hill,Detroit,Michigan,1997,Male,Good,Turning,205.63,97.2
+5cc8ed64fc13ae3b0f000382,Zulema,Loveridge,8 Debs Park,Paterson,New Jersey,1984,Female,Fair,Turning,167.38,86.84
+5cc8ed64fc13ae3b0f000383,Trista,Reichert,96137 Lake View Terrace,Largo,Florida,1982,Female,Good,Breathing,209.09,94.06
+5cc8ed64fc13ae3b0f000384,Son,Kringe,85395 South Hill,Birmingham,Alabama,1996,Male,Fair,Use of Feet,155.32,79.97
+5cc8ed64fc13ae3b0f000385,Hewett,Fountaine,6 Dawn Circle,San Francisco,California,1984,Male,Excellent,Breathing,198.87,98.41
+5cc8ed64fc13ae3b0f000386,Tait,Sail,96973 Old Gate Avenue,Wichita,Kansas,2005,Male,Fair,Use of Feet,176.5,40.86
+5cc8ed64fc13ae3b0f000387,Gareth,Southerell,77 Rockefeller Trail,Mountain View,California,1997,Male,Excellent,Arm Action,147.93,59.47
+5cc8ed64fc13ae3b0f000388,Morten,Heggison,87 Forster Junction,Trenton,New Jersey,2002,Male,Good,Turning,171.96,89.31
+5cc8ed64fc13ae3b0f000389,Wilhelmine,Knappitt,42699 Oak Park,Bryan,Texas,1983,Female,Good,Use of Feet,167.46,82.11
+5cc8ed64fc13ae3b0f00038a,Sean,Gillett,344 Scofield Park,Pittsburgh,Pennsylvania,2003,Male,Fair,Use of Feet,138.71,47.87
+5cc8ed64fc13ae3b0f00038b,Josy,Estable,324 Crownhardt Trail,Springfield,Illinois,1985,Female,Good,Arm Action,143.5,74.75
+5cc8ed64fc13ae3b0f00038c,Tye,Meryett,4322 Summit Way,Jackson,Tennessee,2006,Male,Fair,Use of Feet,181.56,91.16
+5cc8ed64fc13ae3b0f00038d,Nickie,Dohmer,099 Loeprich Lane,Fort Lauderdale,Florida,1986,Female,Excellent,Use of Feet,125.0,57.39
+5cc8ed64fc13ae3b0f00038e,Ruth,Stansfield,4 Schurz Junction,Santa Barbara,California,2002,Female,Fair,Use of Feet,211.6,73.9
+5cc8ed64fc13ae3b0f00038f,Rickie,Hurling,15 Everett Court,Richmond,Virginia,1998,Male,Fair,Turning,207.74,60.28
+5cc8ed64fc13ae3b0f000390,Karyn,Lamberton,353 Spenser Hill,Little Rock,Arkansas,1991,Female,Excellent,Breathing,122.95,97.4
+5cc8ed64fc13ae3b0f000391,Alisander,Bilsford,75779 Del Sol Circle,Chesapeake,Virginia,2002,Male,Excellent,Turning,184.12,88.82
+5cc8ed64fc13ae3b0f000392,Tessa,MacSweeney,8889 Melvin Alley,Oakland,California,1990,Female,Fair,Arm Action,166.15,87.5
+5cc8ed64fc13ae3b0f000393,Maryjane,Bailey,89 Johnson Hill,Los Angeles,California,1996,Female,Good,Arm Action,202.81,48.42
+5cc8ed64fc13ae3b0f000394,Malcolm,Utterson,272 Stang Pass,Green Bay,Wisconsin,1981,Male,Fair,Use of Feet,183.23,63.42
+5cc8ed64fc13ae3b0f000395,Evyn,Batcheldor,5302 Morningstar Center,Charlotte,North Carolina,1992,Male,Good,Arm Action,136.3,64.3
+5cc8ed64fc13ae3b0f000396,Vernen,Andrasch,38266 Stuart Hill,Buffalo,New York,1985,Male,Good,Breathing,206.93,81.45
+5cc8ed64fc13ae3b0f000397,Thibaud,Scard,7 Carey Hill,New Brunswick,New Jersey,1993,Male,Excellent,Breathing,120.02,99.34
+5cc8ed64fc13ae3b0f000398,Hayyim,Abad,5607 Jana Parkway,Tampa,Florida,2002,Male,Excellent,Use of Feet,146.37,61.39
+5cc8ed64fc13ae3b0f000399,Feliza,Whyte,6 Myrtle Parkway,Fort Wayne,Indiana,2006,Female,Fair,Breathing,174.98,94.35
+5cc8ed64fc13ae3b0f00039a,Raynor,Hefferan,8 Banding Junction,Buffalo,New York,1981,Male,Excellent,Breathing,139.37,40.44
+5cc8ed64fc13ae3b0f00039b,Tann,Prydden,362 Corscot Alley,,,1981,Male,,,205.86,54.66
+5cc8ed64fc13ae3b0f00039c,Town,Yele,767 Merrick Parkway,Washington,District of Columbia,1999,Male,Excellent,Turning,124.0,94.7
+5cc8ed64fc13ae3b0f00039d,Fiann,Firebrace,03057 Golden Leaf Terrace,Alhambra,California,1984,Female,Good,Breathing,166.03,71.61
+5cc8ed64fc13ae3b0f00039e,Erl,Joules,029 Cascade Avenue,Tampa,Florida,2007,Male,Excellent,Use of Feet,181.24,66.43
+5cc8ed64fc13ae3b0f00039f,Ethan,Tresvina,5 Ryan Drive,Denver,Colorado,1983,Male,Good,Turning,175.65,97.9
+5cc8ed64fc13ae3b0f0003a0,Barrett,Joannidi,4 Stephen Terrace,Los Angeles,California,1981,Male,Excellent,Use of Feet,131.18,88.35
+5cc8ed64fc13ae3b0f0003a1,Jeffry,Hodges,0542 Oriole Road,Denton,Texas,2005,Male,Good,Turning,212.41,70.23
+5cc8ed64fc13ae3b0f0003a2,Zonda,Ouldcott,977 Little Fleur Plaza,Houston,Texas,1987,Female,Excellent,Breathing,212.06,91.92
+5cc8ed64fc13ae3b0f0003a3,Mavis,Amberson,21177 Mockingbird Trail,,,2003,Female,,,163.11,59.48
+5cc8ed64fc13ae3b0f0003a4,Holmes,Aguirre,55085 Cottonwood Parkway,Washington,District of Columbia,2007,Male,Excellent,Breathing,160.29,43.92
+5cc8ed64fc13ae3b0f0003a5,Bliss,Slemmonds,140 Green Ridge Parkway,Milwaukee,Wisconsin,1984,Female,Excellent,Arm Action,161.51,98.78
+5cc8ed64fc13ae3b0f0003a6,Jacklin,Freschi,84036 Killdeer Park,Rochester,New York,1991,Female,Excellent,Arm Action,203.72,65.73
+5cc8ed64fc13ae3b0f0003a7,Nickolaus,Laytham,718 Scoville Avenue,Fresno,California,2002,Male,Fair,Use of Feet,155.43,40.31
+5cc8ed64fc13ae3b0f0003a8,Emery,Shurmore,85062 Hauk Pass,Warren,Michigan,1987,Male,Excellent,Turning,205.76,54.94
+5cc8ed64fc13ae3b0f0003a9,Sonni,De Francesco,4725 Northland Center,Knoxville,Tennessee,1991,Female,Excellent,Breathing,201.47,94.67
+5cc8ed64fc13ae3b0f0003aa,Marcellina,Dairton,576 Paget Crossing,New Brunswick,New Jersey,1988,Female,Excellent,Turning,204.54,60.84
+5cc8ed64fc13ae3b0f0003ab,Lamont,Chipchase,982 Summer Ridge Street,Appleton,Wisconsin,1989,Male,Excellent,Arm Action,165.16,71.6
+5cc8ed64fc13ae3b0f0003ac,Ferrel,Garrold,13 Fair Oaks Road,Miami,Florida,2000,Male,Good,Use of Feet,128.27,92.98
+5cc8ed64fc13ae3b0f0003ad,Dosi,Caldwall,21018 Lillian Terrace,Miami,Florida,1997,Female,Fair,Use of Feet,128.55,51.9
+5cc8ed64fc13ae3b0f0003ae,Denna,Claussen,7 Spenser Junction,Midland,Texas,2001,Female,Fair,Turning,168.07,54.8
+5cc8ed64fc13ae3b0f0003af,Kort,Carnall,0 Schlimgen Road,Beaumont,Texas,2006,Male,Excellent,Use of Feet,205.22,97.23
+5cc8ed64fc13ae3b0f0003b0,Giulio,MacAskill,0577 Corben Center,Albany,New York,2005,Male,Fair,Arm Action,201.49,98.79
+5cc8ed64fc13ae3b0f0003b1,Gus,Quene,418 Arapahoe Street,Peoria,Arizona,1991,Male,Excellent,Arm Action,174.31,86.86
+5cc8ed64fc13ae3b0f0003b2,Kip,MacIlhargy,78 Reinke Court,Raleigh,North Carolina,2007,Female,Fair,Arm Action,185.16,74.12
+5cc8ed64fc13ae3b0f0003b3,Bentley,Buddles,43 Bashford Pass,Fort Lauderdale,Florida,1993,Male,Fair,Turning,171.48,43.8
+5cc8ed64fc13ae3b0f0003b4,Corbie,Gouda,00656 Armistice Junction,Augusta,Georgia,1998,Male,Excellent,Use of Feet,131.38,53.41
+5cc8ed64fc13ae3b0f0003b5,Dorena,Fearns,81152 Blackbird Point,Milwaukee,Wisconsin,1986,Female,Excellent,Breathing,187.33,71.02
+5cc8ed64fc13ae3b0f0003b6,Olly,Danilchik,35 Jay Trail,Sacramento,California,1992,Male,Fair,Use of Feet,173.59,75.9
+5cc8ed64fc13ae3b0f0003b7,Sallie,Ryal,66 Messerschmidt Street,Atlanta,Georgia,2003,Female,Excellent,Breathing,134.85,89.54
+5cc8ed64fc13ae3b0f0003b8,Bertine,Renton,45513 Namekagon Terrace,Baton Rouge,Louisiana,1998,Female,Fair,Breathing,152.13,95.87
+5cc8ed64fc13ae3b0f0003b9,Markos,Mumbeson,8760 Dunning Alley,Las Vegas,Nevada,1998,Male,Excellent,Use of Feet,146.81,68.41
+5cc8ed64fc13ae3b0f0003ba,Domenic,Lashmore,92710 Bellgrove Crossing,Birmingham,Alabama,1993,Male,Good,Use of Feet,128.29,73.57
+5cc8ed64fc13ae3b0f0003bb,Ede,Skitt,688 Schmedeman Hill,Denver,Colorado,1989,Female,Excellent,Use of Feet,194.74,75.69
+5cc8ed64fc13ae3b0f0003bc,Travus,Mougeot,7 Evergreen Drive,New York City,New York,1993,Male,Good,Arm Action,209.32,43.46
+5cc8ed64fc13ae3b0f0003bd,Christy,Daber,3295 Lerdahl Crossing,Memphis,Tennessee,1986,Male,Excellent,Arm Action,152.95,74.82
+5cc8ed64fc13ae3b0f0003be,Vaughn,Borley,886 Delladonna Street,Tacoma,Washington,1984,Male,Fair,Arm Action,122.26,99.81
+5cc8ed64fc13ae3b0f0003bf,Raeann,Storm,748 Manley Street,Arlington,Texas,1987,Female,Fair,Arm Action,143.44,92.85
+5cc8ed64fc13ae3b0f0003c0,Ker,de Banke,3930 Birchwood Center,Orlando,Florida,1999,Male,Fair,Use of Feet,156.3,44.59
+5cc8ed64fc13ae3b0f0003c1,Erv,Franzotto,5993 Quincy Point,New Orleans,Louisiana,1990,Male,Fair,Turning,176.47,91.21
+5cc8ed64fc13ae3b0f0003c2,Liva,Southward,17272 West Pass,Birmingham,Alabama,1986,Female,Excellent,Arm Action,188.22,85.04
+5cc8ed64fc13ae3b0f0003c3,Zechariah,Blamphin,15 Loomis Point,Saint Petersburg,Florida,1984,Male,Fair,Turning,189.25,92.18
+5cc8ed64fc13ae3b0f0003c4,Reese,Dragoe,17 Helena Place,Atlanta,Georgia,1994,Male,Fair,Use of Feet,174.36,72.58
+5cc8ed64fc13ae3b0f0003c5,Cristi,Headings,03999 Porter Street,New York City,New York,1987,Female,Good,Turning,143.17,68.6
+5cc8ed64fc13ae3b0f0003c6,Shirl,O'Hearn,9 Golf Parkway,Oklahoma City,Oklahoma,1982,Female,Good,Breathing,144.3,89.66
+5cc8ed64fc13ae3b0f0003c7,Lonni,Woollard,53448 Badeau Street,Houston,Texas,1987,Female,Fair,Turning,197.21,89.53
+5cc8ed64fc13ae3b0f0003c8,Justis,Du Pre,52 Straubel Drive,Schenectady,New York,1984,Male,Good,Breathing,136.92,98.8
+5cc8ed64fc13ae3b0f0003c9,Antonino,Celler,694 Helena Terrace,New York City,New York,2006,Male,Fair,Turning,197.98,60.17
+5cc8ed64fc13ae3b0f0003ca,Wit,Huxter,33054 Eliot Court,El Paso,Texas,1984,Male,Fair,Use of Feet,149.26,55.56
+5cc8ed64fc13ae3b0f0003cb,Lucky,Sloyan,29 Ludington Drive,Birmingham,Alabama,1984,Female,Excellent,Use of Feet,205.77,58.93
+5cc8ed64fc13ae3b0f0003cc,Skipp,Arson,15 Talisman Crossing,Orlando,Florida,1982,Male,Excellent,Breathing,195.58,90.81
+5cc8ed64fc13ae3b0f0003cd,Dorolice,Jodkowski,641 Donald Terrace,Huntsville,Texas,2003,Female,Good,Arm Action,161.06,64.41
+5cc8ed64fc13ae3b0f0003ce,Ruggiero,Moiser,5 Parkside Point,Boston,Massachusetts,1999,Male,Good,Arm Action,128.44,55.67
+5cc8ed64fc13ae3b0f0003cf,Arron,Smittoune,3 Swallow Alley,Toledo,Ohio,1991,Male,Fair,Breathing,168.66,89.05
+5cc8ed64fc13ae3b0f0003d0,Zebulon,Quinney,3 Sycamore Pass,San Jose,California,1989,Male,Excellent,Turning,209.57,77.35
+5cc8ed64fc13ae3b0f0003d1,Shurlocke,Deer,7857 Onsgard Avenue,Northridge,California,2002,Male,Excellent,Breathing,173.67,79.3
+5cc8ed64fc13ae3b0f0003d2,Adelbert,Skone,50723 Del Sol Street,Boise,Idaho,1990,Male,Fair,Arm Action,145.21,42.33
+5cc8ed64fc13ae3b0f0003d3,Shell,Petherick,84 Vermont Crossing,Minneapolis,Minnesota,2006,Female,Fair,Breathing,188.15,78.09
+5cc8ed64fc13ae3b0f0003d4,Lavina,Dowthwaite,2 Petterle Circle,Delray Beach,Florida,1987,Female,Excellent,Turning,193.39,52.69
+5cc8ed64fc13ae3b0f0003d5,Shawn,Cay,216 Rigney Park,Omaha,Nebraska,1986,Male,Fair,Use of Feet,122.0,66.76
+5cc8ed64fc13ae3b0f0003d6,Caprice,Smithies,0315 Mariners Cove Point,Washington,District of Columbia,1987,Female,Excellent,Arm Action,175.05,97.91
+5cc8ed64fc13ae3b0f0003d7,Mina,Simonaitis,9040 Jay Trail,Little Rock,Arkansas,1980,Female,Excellent,Breathing,191.32,88.66
+5cc8ed64fc13ae3b0f0003d8,Alfonse,Teague,0 Monterey Parkway,Honolulu,Hawaii,1985,Male,Excellent,Breathing,120.98,69.81
+5cc8ed64fc13ae3b0f0003d9,Baird,Arton,23 Di Loreto Crossing,Colorado Springs,Colorado,1991,Male,Fair,Breathing,190.83,44.45
+5cc8ed64fc13ae3b0f0003da,Asher,Millership,88 Arrowood Plaza,Concord,California,1985,Male,Good,Arm Action,133.81,84.86
+5cc8ed64fc13ae3b0f0003db,Toni,Pennicott,48 Ludington Alley,,,2005,Female,,,132.05,40.5
+5cc8ed64fc13ae3b0f0003dc,Roshelle,Chastel,39 Reindahl Plaza,San Diego,California,1990,Female,Fair,Use of Feet,157.92,87.32
+5cc8ed64fc13ae3b0f0003dd,Germayne,Idney,94 Cardinal Point,Columbus,Ohio,1982,Male,Good,Breathing,128.0,63.57
+5cc8ed64fc13ae3b0f0003de,Javier,Luney,7053 Valley Edge Terrace,Tulsa,Oklahoma,2004,Male,Good,Turning,150.69,52.91
+5cc8ed64fc13ae3b0f0003df,Cly,Tidd,0 Bluejay Trail,Boulder,Colorado,1984,Male,Excellent,Arm Action,209.32,97.25
+5cc8ed64fc13ae3b0f0003e0,Anneliese,Pickin,67 Nelson Circle,Des Moines,Iowa,2007,Female,Fair,Use of Feet,170.87,93.52
+5cc8ed64fc13ae3b0f0003e1,Antonius,Elby,3105 Pepper Wood Place,Fort Lauderdale,Florida,1993,Male,Excellent,Turning,206.04,93.75
+5cc8ed64fc13ae3b0f0003e2,Bessy,Bartosik,025 Russell Place,Roanoke,Virginia,1997,Female,Fair,Turning,153.31,70.46
+5cc8ed64fc13ae3b0f0003e3,Bartholemy,Strudwick,641 Annamark Junction,Peoria,Arizona,1980,Male,Excellent,Turning,194.76,77.69
+5cc8ed64fc13ae3b0f0003e4,Rudd,Brooke,571 Straubel Hill,Dayton,Ohio,1999,Male,Excellent,Arm Action,139.9,47.37
+5cc8ed64fc13ae3b0f0003e5,Yuri,Fripp,10 Cascade Crossing,Norwalk,Connecticut,1984,Male,Good,Breathing,204.98,93.9
+5cc8ed64fc13ae3b0f0003e6,Rouvin,Hunsworth,6776 Bluestem Parkway,Fayetteville,North Carolina,1990,Male,Fair,Arm Action,171.5,44.28
+5cc8ed64fc13ae3b0f0003e7,Dorothea,Hamley,1762 Anniversary Point,Seattle,Washington,2006,Female,Fair,Arm Action,159.85,83.72
